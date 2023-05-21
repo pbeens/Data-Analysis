@@ -18,4 +18,4 @@ Alternatatively, you can display the notebook in **Google Colab** by changing th
 
 # Projects 
 
-+ [Canadian Population Data](Wikipedia/Canadian-Population-Barchart.ipynb)
++ [Wikipedia/Canadian-Population-Barchart.ipynb](Wikipedia/Canadian-Population-Barchart.ipynb) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb)
