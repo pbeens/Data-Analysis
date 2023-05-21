@@ -10,7 +10,7 @@ Note: if you're having an issue with a notebook not displaying in GitHub, go to 
 
 ![nbviewer screenshot](images/nbviewer.png)
 
-Alternatatively, you can display the notebook in Google Colab by changing the github part of the URL to githubtocolab. 
+Alternatatively, you can display the notebook in **Google Colab** by changing the github part of the URL to githubtocolab. https://github.com/ would become https://githubtocolab.com/. 
 
 # Miscellaneous 
 
