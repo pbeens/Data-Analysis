@@ -5,7 +5,9 @@ These FAQs will be used to record any general things I find interesting about da
 # Table of Contents
 - [What is the difference between print() and display() in Jupyter notebooks?](#what-is-the-difference-between-print-and-display-in-jupyter-notebooks)
 - [Why is it preferable to use underscores between the words of a Pandas header?](#why-is-it-preferable-to-use-underscores-between-the-words-of-a-pandas-header)
+- [Explain how the index in a Pandas dataframe works.](#explain-how-the-index-in-a-pandas-dataframe-works)
 - [What VS Code Extensions Do I Like?](#what-vs-code-extensions-do-i-like)
+
 
 
 # What is the difference between print() and display() in Jupyter notebooks?
@@ -38,6 +40,21 @@ Source: Conversation with Bing, 2023-05-21
 3. Remove or replace spaces in column names - Stack Overflow. https://stackoverflow.com/questions/41476150/remove-or-replace-spaces-in-column-names.
 4. pandas replace column name spaces with underscore - GrabThisCode. https://grabthiscode.com/python/pandas-replace-column-name-spaces-with-underscore.
 5. How to remove underscores from column names within plots?. https://stackoverflow.com/questions/70312813/how-to-remove-underscores-from-column-names-within-plots.
+
+# Explain how the index in a Pandas dataframe works.
+
+The index in a Pandas DataFrame is a special object that labels the rows of the DataFrame. It can be either a single column of values, such as integers or strings, or a multi-level index that consists of multiple columns of values. The index can be used to access and modify the rows of the DataFrame in various ways, such as slicing, filtering, sorting, grouping, etc¹².
+
+The index can be set when creating a DataFrame from scratch or from an existing data source, such as a CSV file or a database. You can also change the index of an existing DataFrame by using methods such as set_index, reset_index, reindex, etc¹³. The index can have a name or names that describe its meaning or source⁴.
+
+The index is an important feature of Pandas DataFrames because it enables fast and efficient data alignment and operations. For example, when performing arithmetic operations or merging DataFrames, Pandas will automatically align the data by matching the index labels of the operands¹⁵. This ensures that the data is consistent and accurate across different DataFrames. The index also provides metadata for the DataFrame that can be useful for analysis, visualization, and interactive console display¹.
+
+Source: Conversation with Bing, 2023-05-21
+1. pandas.DataFrame.index — pandas 2.0.1 documentation. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.index.html.
+2. Indexing and selecting data — pandas 2.0.1 documentation. https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html.
+3. Tutorial: How to Index DataFrames in Pandas - Dataquest. https://www.dataquest.io/blog/tutorial-indexing-dataframes-in-pandas/.
+4. Indexing and Selecting Data with Pandas - GeeksforGeeks. https://www.geeksforgeeks.org/indexing-and-selecting-data-with-pandas/.
+5. Pandas Dataframe Index in Python - PythonForBeginners.com. https://www.pythonforbeginners.com/basics/pandas-dataframe-index-in-python.
 
 # What VS Code Extensions Do I Like?
 
