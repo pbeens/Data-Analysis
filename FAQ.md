@@ -42,3 +42,4 @@ Source: Conversation with Bing, 2023-05-21
 # What VS Code Extensions Do I Like?
 
 + [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): Highlight TODO, FIXME and other annotations within your code.
++ [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): This extension quickly searches your workspace for comment tags like TODO and FIXME and displays them in a tree view in the activity bar. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
