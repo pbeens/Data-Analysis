@@ -12,8 +12,7 @@ Run this utility directly in Colab here:
 https://colab.research.google.com/drive/12LdduTNAtMwC3oNohv8Y7dFkuJiPYFOd?usp=sharing
 '''
 
-print('This program takes an ipynb GitHUb link and creates the corresponding NBViewer and Colab links.')
-print()
+print('This program takes an ipynb GitHUb link and creates the corresponding NBViewer and Colab links.\n')
 
 # Get the GitHub link of the ipynb file from the user
 github_link = input('Enter the GitHub link of the ipynb file: ')
