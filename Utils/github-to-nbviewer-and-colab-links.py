@@ -6,6 +6,10 @@ and Colab.
 
 It then prints the Colab and NBViewer links, as well as a markdown format that can be used to 
 embed them in a document. 
+
+Run this utility directly in Colab here:
+
+https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Utils/github-to-nbviewer-and-colab-links.py
 '''
 
 print('This program takes an ipynb GitHUb link and creates the corresponding NBViewer and Colab links.')
