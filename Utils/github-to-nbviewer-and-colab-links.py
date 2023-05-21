@@ -9,7 +9,7 @@ embed them in a document.
 
 Run this utility directly in Colab here:
 
-https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Utils/github-to-nbviewer-and-colab-links.py
+https://colab.research.google.com/drive/12LdduTNAtMwC3oNohv8Y7dFkuJiPYFOd?usp=sharing
 '''
 
 print('This program takes an ipynb GitHUb link and creates the corresponding NBViewer and Colab links.')
