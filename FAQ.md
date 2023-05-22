@@ -7,8 +7,8 @@ These FAQs will be used to record any general things I find interesting about da
 - [Why is it preferable to use underscores between the words of a Pandas header?](#why-is-it-preferable-to-use-underscores-between-the-words-of-a-pandas-header)
 - [Explain how the index in a Pandas dataframe works.](#explain-how-the-index-in-a-pandas-dataframe-works)
 - [How do I create requirements.txt for Python?](#how-do-i-create-requirementstxt-for-python)
+- [How can I used requirements.txt to install the necessary libraries?](#how-can-i-used-requirementstxt-to-install-the-necessary-libraries)
 - [What VS Code Extensions Do I Like?](#what-vs-code-extensions-do-i-like)
-
 
 # What is the difference between print() and display() in Jupyter notebooks?
 
@@ -77,6 +77,24 @@ Source: Conversation with Bing, 2023-05-22
 2. python - Automatically create requirements.txt - Stack Overflow. https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt.
 3. python - How to check requirements and generate a requirements.txt file .... https://stackoverflow.com/questions/65261513/how-to-check-requirements-and-generate-a-requirements-txt-file.
 4. How to Create Requirements.txt Python? - Scaler. https://www.scaler.com/topics/how-to-create-requirements-txt-python/.
+
+# How can I used requirements.txt to install the necessary libraries?
+
+To install the packages from a requirements.txt file, you can use the `pip install` command with the `-r` option. For example:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all the packages and their versions that are listed in the requirements.txt file. 
+
+You can also use the `--upgrade` option to upgrade the packages to their latest versions, regardless of what is specified in the requirements.txt file. For example:
+
+```bash
+pip install --upgrade -r requirements.txt
+```
+
+This will install or upgrade all the packages to their latest versions.
 
 # What VS Code Extensions Do I Like?
 
