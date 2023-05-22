@@ -6,8 +6,8 @@ These FAQs will be used to record any general things I find interesting about da
 - [What is the difference between print() and display() in Jupyter notebooks?](#what-is-the-difference-between-print-and-display-in-jupyter-notebooks)
 - [Why is it preferable to use underscores between the words of a Pandas header?](#why-is-it-preferable-to-use-underscores-between-the-words-of-a-pandas-header)
 - [Explain how the index in a Pandas dataframe works.](#explain-how-the-index-in-a-pandas-dataframe-works)
+- [How do I create requirements.txt for Python?](#how-do-i-create-requirementstxt-for-python)
 - [What VS Code Extensions Do I Like?](#what-vs-code-extensions-do-i-like)
-
 
 
 # What is the difference between print() and display() in Jupyter notebooks?
@@ -55,6 +55,28 @@ Source: Conversation with Bing, 2023-05-21
 3. Tutorial: How to Index DataFrames in Pandas - Dataquest. https://www.dataquest.io/blog/tutorial-indexing-dataframes-in-pandas/.
 4. Indexing and Selecting Data with Pandas - GeeksforGeeks. https://www.geeksforgeeks.org/indexing-and-selecting-data-with-pandas/.
 5. Pandas Dataframe Index in Python - PythonForBeginners.com. https://www.pythonforbeginners.com/basics/pandas-dataframe-index-in-python.
+
+# How do I create requirements.txt for Python?
+
+A requirements.txt file is a text file that lists the Python packages and their versions that are required for a Python project. It is useful for managing dependencies and sharing your project with others.
+
+There are different ways to create a requirements.txt file, depending on your situation. Here are some common methods:
+
+- Assuming you have already installed the packages in your virtual environment or system, you can use the `pip freeze` command to generate a requirements.txt file with the exact versions of the installed packages. For example:
+
+```bash
+pip freeze > requirements.txt
+```
+
+This will create a requirements.txt file in your current directory with the output of `pip freeze`.
+
+For more information about requirements.txt files, you can visit this link: https://packaging.python.org/tutorials/installing-packages/#requirements-files
+
+Source: Conversation with Bing, 2023-05-22
+1. The Python Requirements File and How to Create it. https://learnpython.com/blog/python-requirements-file/.
+2. python - Automatically create requirements.txt - Stack Overflow. https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt.
+3. python - How to check requirements and generate a requirements.txt file .... https://stackoverflow.com/questions/65261513/how-to-check-requirements-and-generate-a-requirements-txt-file.
+4. How to Create Requirements.txt Python? - Scaler. https://www.scaler.com/topics/how-to-create-requirements-txt-python/.
 
 # What VS Code Extensions Do I Like?
 
