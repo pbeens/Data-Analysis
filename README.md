@@ -22,6 +22,8 @@ I have written a utility which will take a GitHub ipynb URL and convert it for u
 # Miscellaneous 
 
 + [FAQs](FAQ.md)
++ If you need to quickly code some Python, why not try out JupyterLite? 
+<br>[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyter.org/try-jupyter)
 
 # Projects 
 
