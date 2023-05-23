@@ -23,7 +23,7 @@ Note: if you're having an issue with a Jupyter notebook not displaying in GitHub
 
 Alternatively, you can display the notebook in **Google Colab** by changing the github part of the URL to githubtocolab. https://github.com/ would become https://githubtocolab.com/. 
 
-I have written a utility which will take a GitHub ipynb URL and convert it for use with Colab and NBViewer. You can download the file from [here](Utils/github-to-nbviewer-and-colab-links.py).
+I have written a utility which will take a GitHub ipynb URL and convert it for use with Colab and NBViewer. You can download the file from [here](Utils/github-to-nbviewer-and-colab-links.py) or run it from [here](https://colab.research.google.com/drive/12LdduTNAtMwC3oNohv8Y7dFkuJiPYFOd?usp=sharing).
 
 # Miscellaneous 
 
