@@ -73,7 +73,7 @@ Another way is to use the `style` property with the `hide_index` method. For exa
 df.style.hide_index()
 ```
 
-This will return a styled object that hides the index column when displayed²⁴.
+This will return a styled object that hides the index column when displayed²⁴. (Note: This requires the installation of Jinja2.) 
 
 A third way is to use the `to_html` method with the `index=False` parameter and display it as HTML. For example:
 
