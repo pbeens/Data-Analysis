@@ -39,14 +39,13 @@ nbviewer_link = github_link.replace('github.com/', 'nbviewer.org/github/')
 # Create the Callysto link using the function above
 callysto_link = callysto(github_link)
 
-# Print the Colab and NBViewer links
+# Print the Notebook Viewer links
 print('Callysto')
 print(callysto_link)
 print('Colab')
 print(colab_link)
 print('NBViewer')
 print(nbviewer_link)
-
 
 # Print the Markdown header
 print('\nMarkdown:\n')
