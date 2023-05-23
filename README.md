@@ -8,20 +8,20 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 + I've added [Birth Months](Misc/Birth-Months.ipynb), a program which imports the data from *Google Sheets* and plots a histogram of the birth months.
 + I've added an [FAQ](FAQ.md#how-do-i-create-requirementstxt-for-python) related to the requirements.txt file, which can be used for installing all the required libraries in Python.
-+ I've created a [Canadian Population Barchart notebook](Wikipedia/Canadian-Population-Barchart.ipynb) ([Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb)) to show how to extract data from a table on a [page](https://en.wikipedia.org/wiki/Population_of_Canada_by_province_and_territory) on Wikipedia. 
++ I've created a [Canadian Population Bar Chart notebook](Wikipedia/Canadian-Population-Barchart.ipynb) ([Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb)) to show how to extract data from a table on a [page](https://en.wikipedia.org/wiki/Population_of_Canada_by_province_and_territory) on Wikipedia. 
 + I've created a Python [utility](Utils/github-to-nbviewer-and-colab-links.py) which which will create the Colab and NBViewer links to let you view and/or experiment with a Jupyter notebook that's on GitHub. Look for it in the [Utils](Utils) folder or run it directly [here](https://colab.research.google.com/drive/12LdduTNAtMwC3oNohv8Y7dFkuJiPYFOd?usp=sharing).
 
 # Problems Viewing?
 
 Note: if you're having an issue with a Jupyter notebook not displaying in GitHub, go to https://nbviewer.org/ and paste in the URL of the notebook. 
 
-<div style="text-align: center;">
-<a href="https://nbviewer.org/">
-<img src="images/nbviewer.png" alt="nbviewer" width="75%"/>
-</a>
-</div>
+<p align="center">
+    <a href="https://nbviewer.org/">
+        <img src="images/nbviewer.png" alt="nbviewer" width="75%"/>
+    </a>
+</p>
 
-Alternatatively, you can display the notebook in **Google Colab** by changing the github part of the URL to githubtocolab. https://github.com/ would become https://githubtocolab.com/. 
+Alternatively, you can display the notebook in **Google Colab** by changing the github part of the URL to githubtocolab. https://github.com/ would become https://githubtocolab.com/. 
 
 I have written a utility which will take a GitHub ipynb URL and convert it for use with Colab and NBViewer. You can download the file from [here](Utils/github-to-nbviewer-and-colab-links.py).
 
