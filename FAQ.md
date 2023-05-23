@@ -6,6 +6,7 @@ These FAQs will be used to record any general things I find interesting about da
 - [What is the difference between print() and display() in Jupyter notebooks?](#what-is-the-difference-between-print-and-display-in-jupyter-notebooks)
 - [Why is it preferable to use underscores between the words of a Pandas header?](#why-is-it-preferable-to-use-underscores-between-the-words-of-a-pandas-header)
 - [Explain how the index in a Pandas dataframe works.](#explain-how-the-index-in-a-pandas-dataframe-works)
+- [How can we display a Pandas dataframe without the index?](#how-can-we-display-a-pandas-dataframe-without-the-index)
 - [How do I create requirements.txt for Python?](#how-do-i-create-requirementstxt-for-python)
 - [How can I used requirements.txt to install the necessary libraries?](#how-can-i-used-requirementstxt-to-install-the-necessary-libraries)
 - [What VS Code Extensions Do I Like?](#what-vs-code-extensions-do-i-like)
