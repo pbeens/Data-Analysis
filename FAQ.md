@@ -56,6 +56,40 @@ Source: Conversation with Bing, 2023-05-21
 4. Indexing and Selecting Data with Pandas - GeeksforGeeks. https://www.geeksforgeeks.org/indexing-and-selecting-data-with-pandas/.
 5. Pandas Dataframe Index in Python - PythonForBeginners.com. https://www.pythonforbeginners.com/basics/pandas-dataframe-index-in-python.
 
+# How can we display a Pandas dataframe without the index?
+
+There are a few ways to display a Pandas dataframe without the index. One way is to use the `to_string` method with the `index=False` parameter. For example:
+
+```python
+print(df.to_string(index=False))
+```
+
+This will print the dataframe as a string without the index column¹²³.
+
+Another way is to use the `style` property with the `hide_index` method. For example:
+
+```python
+df.style.hide_index()
+```
+
+This will return a styled object that hides the index column when displayed²⁴.
+
+A third way is to use the `to_html` method with the `index=False` parameter and display it as HTML. For example:
+
+```python
+from IPython.display import HTML
+HTML(df.to_html(index=False))
+```
+
+This will display the dataframe as an HTML table without the index column⁵.
+
+Source: Conversation with Bing, 2023-05-23
+1. Display pandas dataframe without index - Stack Overflow. https://stackoverflow.com/questions/64846520/display-pandas-dataframe-without-index.
+2. How to print pandas DataFrame without index - Stack Overflow. https://stackoverflow.com/questions/24644656/how-to-print-pandas-dataframe-without-index.
+3. How to print Dataframe in Python without Index? - GeeksforGeeks. https://www.geeksforgeeks.org/how-to-print-dataframe-in-python-without-index/.
+4. How to Print Pandas DataFrame without Index - Spark By Examples. https://sparkbyexamples.com/pandas/print-pandas-dataframe-without-index/.
+5. Display full Pandas dataframe in Jupyter without index. https://stackoverflow.com/questions/63234174/display-full-pandas-dataframe-in-jupyter-without-index.
+
 # How do I create requirements.txt for Python?
 
 A requirements.txt file is a text file that lists the Python packages and their versions that are required for a Python project. It is useful for managing dependencies and sharing your project with others.
