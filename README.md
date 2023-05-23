@@ -4,8 +4,15 @@ Welcome to this repository!
 
 My goal here is to share things I learn about data analysis using Python. The majority of the files I include will likely be Jupyter Notebooks because I like the inherent interactivity Jupyter Notebooks provide, the integration with Markdown (making documentation of the code so much easier), and the ability to easily "chunk" the code to aid in the teaching of how the code works.
 
+# Table of Contents
+- [What's New?](#whats-new)
+- [Problems Viewing?](#problems-viewing)
+- [Miscellaneous](#miscellaneous)
+- [Projects](#projects)
+
 # What's New? 
 
++ I've added two glossaries for the nba_api data: [NBA/player-stats-glossary.md](Sports/NBA/player-stats-glossary.md) and [team-roster-glossary.md](Sports/NBA/team-roster-glossary.md).
 + I've added [Birth Months](Misc/Birth-Months.ipynb), a program which imports the data from *Google Sheets* and plots a histogram of the birth months.
 + I've added an [FAQ](FAQ.md#how-do-i-create-requirementstxt-for-python) related to the requirements.txt file, which can be used for installing all the required libraries in Python.
 + I've created a [Canadian Population Bar Chart notebook](Wikipedia/Canadian-Population-Barchart.ipynb) ([Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb)) to show how to extract data from a table on a [page](https://en.wikipedia.org/wiki/Population_of_Canada_by_province_and_territory) on Wikipedia. 
@@ -34,4 +41,4 @@ I have written a utility which will take a GitHub ipynb URL and convert it for u
 # Projects 
 
 + [Misc/Birth-Months.ipynb](Misc/Birth-Months.ipynb) — Open in [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Misc/Birth-Months.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Misc/Birth-Months.ipynb). This Python program uses pandas and matplotlib.pyplot to read data from a public Google Sheet, create a histogram of the data in the birth month column, and save the histogram as an image file. The program also uses comments to document the code and explain what each line or block of code does. 
-+ [Wikipedia/Canadian-Population-Barchart.ipynb](Wikipedia/Canadian-Population-Barchart.ipynb) — Open in [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb). This program reads in Canadian population data from a table on a page in Wikipedia. It showcases how to read in the data, clean it up so it can be plotted, and then plots two bar charts. 
++ [Wikipedia/Canadian-Population-Barchart.ipynb](Wikipedia/Canadian-Population-Barchart.ipynb) — Open in [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb). This program reads in Canadian population data from a table on a page in Wikipedia. It showcases how to read in the data, clean it up so it can be plotted, and then plots two bar charts.
