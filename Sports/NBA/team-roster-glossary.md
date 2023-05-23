@@ -7,6 +7,12 @@ This glossary can be used for any data retrieved using this program stub, which 
     roster = commonteamroster.CommonTeamRoster(team_id=1610612761)
     roster_df = roster.get_data_frames()[0]
 
+To display the PLAYER and HEIGHT columns only, you need to pass the column names as a list. For example:
+
+    roster_df[["PLAYER", "HEIGHT"]]
+
+...would only print the PLAYER and HEIGHT data.
+
 - **TeamID**: The unique identification number of each team in the NBA database.
 - **SEASON**: The start year of a season. For example, 2022 means the season started in 2022 and ended in 2023.
 - **LeagueID**: The identification code of the league that a player or team belongs to. For example, 00 means the NBA, 10 means the NBA G League, and 20 means the WNBA.
