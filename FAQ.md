@@ -3,12 +3,14 @@
 These FAQs will be used to record any general things I find interesting about data analysis that I learn along the way. 
 
 # Table of Contents
+- [FAQs](#faqs)
+- [Table of Contents](#table-of-contents)
 - [What is the difference between print() and display() in Jupyter notebooks?](#what-is-the-difference-between-print-and-display-in-jupyter-notebooks)
 - [Why is it preferable to use underscores between the words of a Pandas header?](#why-is-it-preferable-to-use-underscores-between-the-words-of-a-pandas-header)
 - [Explain how the index in a Pandas dataframe works.](#explain-how-the-index-in-a-pandas-dataframe-works)
 - [How can we display a Pandas dataframe without the index?](#how-can-we-display-a-pandas-dataframe-without-the-index)
 - [How do I create requirements.txt for Python?](#how-do-i-create-requirementstxt-for-python)
-- [How can I used requirements.txt to install the necessary libraries?](#how-can-i-used-requirementstxt-to-install-the-necessary-libraries)
+- [How can I use requirements.txt to install the necessary libraries?](#how-can-i-use-requirementstxt-to-install-the-necessary-libraries)
 - [What VS Code Extensions Do I Like?](#what-vs-code-extensions-do-i-like)
 
 # What is the difference between print() and display() in Jupyter notebooks?
@@ -113,7 +115,7 @@ Source: Conversation with Bing, 2023-05-22
 3. python - How to check requirements and generate a requirements.txt file .... https://stackoverflow.com/questions/65261513/how-to-check-requirements-and-generate-a-requirements-txt-file.
 4. How to Create Requirements.txt Python? - Scaler. https://www.scaler.com/topics/how-to-create-requirements-txt-python/.
 
-# How can I used requirements.txt to install the necessary libraries?
+# How can I use requirements.txt to install the necessary libraries?
 
 To install the packages from a requirements.txt file, you can use the `pip install` command with the `-r` option. For example:
 
