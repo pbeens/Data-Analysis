@@ -12,6 +12,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added "What are some good websites for open data?" to the [FAQs](FAQ.md)
 + I've updated the [github-to-notebook-links](Utils/github-to-notebook-links.py) utility to now also include Callysto, so you can convert any Jupyter notebook (*.ipynb) on GitHub to links that can be opened on Callysto, Colab, or NBViewer.
 + I've added [team-roster.ipynb](Sports/NBA/team-roster.ipynb) which uses nba_api data to print some player information for the Toronto Raptors.
 + I've added two glossaries for the nba_api data: [player-stats-glossary.md](Sports/NBA/player-stats-glossary.md) and [team-roster-glossary.md](Sports/NBA/team-roster-glossary.md).
