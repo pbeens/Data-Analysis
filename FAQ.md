@@ -137,7 +137,7 @@ This will install or upgrade all the packages to their latest versions.
 
 Open data websites are online platforms that provide access to data that is **free** to use, reuse, or share⁴. Open data can come from various sources, such as governments, organizations, research institutions, and individuals⁴. Some examples of open data websites are:
 
-- **[Open Data | Open Government, Government of Canada](https://open.canada.ca/en/open-data))**¹: This website offers open data from the Canadian government on various topics, such as agriculture, economics, health, and environment¹.
+- **Open Data | Open Government, Government of Canada**¹: This website offers open data from the Canadian government on various topics, such as agriculture, economics, health, and environment¹.
 - **Google Dataset Search**²: This website allows you to search for datasets across the web using Google's search engine². You can filter by format, license, provider, and update date².
 - **Open data - Wikipedia**³: This website provides a list of open data initiatives and websites from different countries and regions around the world³.
 - **40 Places to Find Open Data on the Web - Rock Content**⁴: This website provides a curated list of 40 open data websites covering various domains, such as business, education, sports, and social media⁴.
