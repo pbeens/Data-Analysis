@@ -133,6 +133,23 @@ pip install --upgrade -r requirements.txt
 
 This will install or upgrade all the packages to their latest versions.
 
+# What are some good websites for open data?
+
+Open data websites are online platforms that provide access to data that is **free** to use, reuse, or share⁴. Open data can come from various sources, such as governments, organizations, research institutions, and individuals⁴. Some examples of open data websites are:
+
+- **[Open Data | Open Government, Government of Canada](https://open.canada.ca/en/open-data))**¹: This website offers open data from the Canadian government on various topics, such as agriculture, economics, health, and environment¹.
+- **Google Dataset Search**²: This website allows you to search for datasets across the web using Google's search engine². You can filter by format, license, provider, and update date².
+- **Open data - Wikipedia**³: This website provides a list of open data initiatives and websites from different countries and regions around the world³.
+- **40 Places to Find Open Data on the Web - Rock Content**⁴: This website provides a curated list of 40 open data websites covering various domains, such as business, education, sports, and social media⁴.
+- **55 Free Open Data Sources You Should Know**⁵: This website provides another curated list of 55 open data websites with brief descriptions and links⁵.
+
+Source: Conversation with Bing, 2023-05-29
+1. Open Data | Open Government, Government of Canada. https://open.canada.ca/en/open-data.
+2. 10 Great Places To Find Open, Free Datasets [2023 Guide] - CareerFoundry. https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/.
+3. Open data - Wikipedia. https://en.wikipedia.org/wiki/Open_data.
+4. 40 Places to Find Open Data on the Web - Rock Content. https://rockcontent.com/blog/data-sources/.
+5. 55 Free Open Data Sources You Should Know. https://data-ox.com/55-free-open-data-sources-you-should-know-for-2021.
+
 # What VS Code Extensions Do I Like?
 
 + [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): Highlight TODO, FIXME and other annotations within your code.
