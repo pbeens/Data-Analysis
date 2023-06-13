@@ -12,6 +12,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added [clipboard-download.ipynb](Utils/clipboard-download/clipboard-download.ipynb) to demonstrate how to use `pd.read_clipboard()` when `pd.read_html()` won't work. The program also saves the data to a CSV file. 
 + Added "What are some good websites for open data?" to the [FAQs](FAQ.md)
 + I've updated the [github-to-notebook-links](Utils/github-to-notebook-links.py) utility to now also include Callysto, so you can convert any Jupyter notebook (*.ipynb) on GitHub to links that can be opened on Callysto, Colab, or NBViewer.
 + I've added [team-roster.ipynb](Sports/NBA/team-roster.ipynb) which uses nba_api data to print some player information for the Toronto Raptors.
