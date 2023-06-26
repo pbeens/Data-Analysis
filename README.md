@@ -5,6 +5,8 @@ Welcome to this repository!
 My goal here is to share things I learn about data analysis using Python. The majority of the files I include will likely be Jupyter Notebooks because I like the inherent interactivity Jupyter Notebooks provide, the integration with Markdown (making documentation of the code so much easier), and the ability to easily "chunk" the code to aid in the teaching of how the code works.
 
 # Table of Contents
+- [README.md](#readmemd)
+- [Table of Contents](#table-of-contents)
 - [What's New?](#whats-new)
 - [Problems Viewing?](#problems-viewing)
 - [Miscellaneous](#miscellaneous)
@@ -12,7 +14,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
-+ Added [ssl-fix.ipynb](Utils/ssl-fix.ipynb) a fix I occasionally need to use when accessing Google Sheets. Simply copy-and-paste this code into your program before reading in the Google Sheet. 
++ Added [ssl-fix.ipynb](Utils/ssl-fix.ipynb) a fix I occasionally need to use when accessing Google Sheets. Simply copy-and-paste this code into your program before reading in the Google Sheet. Note: read the comments in the notebook. There is a fix that I disovered which should make this code obsolete.
 + Added [clipboard-download.ipynb](Utils/clipboard-download/clipboard-download.ipynb) to demonstrate how to use `pd.read_clipboard()` when `pd.read_html()` won't work. The program also saves the data to a CSV file. 
 + Added "What are some good websites for open data?" to the [FAQs](FAQ.md)
 + I've updated the [github-to-notebook-links](Utils/github-to-notebook-links.py) utility to now also include Callysto, so you can convert any Jupyter notebook (*.ipynb) on GitHub to links that can be opened on Callysto, Colab, or NBViewer.
