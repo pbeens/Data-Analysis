@@ -12,6 +12,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added [ssl-fix.ipynb](Utils/ssl-fix.ipynb) a fix I occasionally need to use when accessing Google Sheets. Simply copy-and-paste this code into your program before reading in the Google Sheet. 
 + Added [clipboard-download.ipynb](Utils/clipboard-download/clipboard-download.ipynb) to demonstrate how to use `pd.read_clipboard()` when `pd.read_html()` won't work. The program also saves the data to a CSV file. 
 + Added "What are some good websites for open data?" to the [FAQs](FAQ.md)
 + I've updated the [github-to-notebook-links](Utils/github-to-notebook-links.py) utility to now also include Callysto, so you can convert any Jupyter notebook (*.ipynb) on GitHub to links that can be opened on Callysto, Colab, or NBViewer.
