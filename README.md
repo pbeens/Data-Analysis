@@ -14,10 +14,11 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added [find_table_index.ipynb](Utils/find_table_index.ipynb), a utility that checks for the existence of a table name at a given URL and returns the index of that table. This is useful when scraping data from tables on webpages. You can run this utility directly on Colab [here](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Utils/find_table_index.ipynb).
 + Added [ssl-fix.ipynb](Utils/ssl-fix.ipynb) a fix I occasionally need to use when accessing Google Sheets. Simply copy-and-paste this code into your program before reading in the Google Sheet. Note: read the comments in the notebook. There is a fix that I disovered which should make this code obsolete.
 + Added [clipboard-download.ipynb](Utils/clipboard-download/clipboard-download.ipynb) to demonstrate how to use `pd.read_clipboard()` when `pd.read_html()` won't work. The program also saves the data to a CSV file. 
 + Added "What are some good websites for open data?" to the [FAQs](FAQ.md)
-+ I've updated the [github-to-notebook-links](Utils/github-to-notebook-links.py) utility to now also include Callysto, so you can convert any Jupyter notebook (*.ipynb) on GitHub to links that can be opened on Callysto, Colab, or NBViewer.
++ I've updated the [github-to-notebook-links](Utils/github-to-notebook-links.py) utility to now also include Callysto, so you can convert any Jupyter notebook (*.ipynb) on GitHub to links that can be opened on Callysto, Colab, or NBViewer. You can run this utility directly on Colab [here](https://colab.research.google.com/drive/12LdduTNAtMwC3oNohv8Y7dFkuJiPYFOd?usp=sharing).
 + I've added [team-roster.ipynb](Sports/NBA/team-roster.ipynb) which uses nba_api data to print some player information for the Toronto Raptors.
 + I've added two glossaries for the nba_api data: [player-stats-glossary.md](Sports/NBA/player-stats-glossary.md) and [team-roster-glossary.md](Sports/NBA/team-roster-glossary.md).
 + I've added [Birth Months](Misc/Birth-Months.ipynb), a program which imports the data from *Google Sheets* and plots a histogram of the birth months.
