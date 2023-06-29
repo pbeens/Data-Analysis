@@ -5,15 +5,15 @@ Welcome!
 My goal here is to share things I learn about data analysis using Python. The majority of the files I include will likely be Jupyter Notebooks because I like the inherent interactivity Jupyter Notebooks provide, the integration with Markdown (making documentation of the code so much easier), and the ability to easily "chunk" the code to aid in the teaching of how the code works.
 
 # Table of Contents
-- [README.md](#readmemd)
-- [Table of Contents](#table-of-contents)
 - [What's New?](#whats-new)
 - [Problems Viewing?](#problems-viewing)
 - [Miscellaneous](#miscellaneous)
 - [Projects](#projects)
+- [PS43](#ps43)
 
 # What's New? 
 
++ Added a little [code snippet](Utils/code-snippets/image.md) to remind me how to insert images into Markdown when I need to resize them or center them.
 + Added [find_table_index.ipynb](Utils/find_table_index.ipynb), a utility that checks for the existence of a table name at a given URL and returns the index of that table. This is useful when scraping data from tables on webpages. You can run this utility directly on Colab [here](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Utils/find_table_index.ipynb).
 + Added [ssl-fix.ipynb](Utils/ssl-fix.ipynb) a fix I occasionally need to use when accessing Google Sheets. Simply copy-and-paste this code into your program before reading in the Google Sheet. Note: read the comments in the notebook. There is a fix that I disovered which should make this code obsolete.
 + Added [clipboard-download.ipynb](Utils/clipboard-download/clipboard-download.ipynb) to demonstrate how to use `pd.read_clipboard()` when `pd.read_html()` won't work. The program also saves the data to a CSV file. 
@@ -52,3 +52,7 @@ I have written a utility which will take a GitHub ipynb URL and convert it for u
 + [Misc/Birth-Months.ipynb](Misc/Birth-Months.ipynb) — Open in 
   [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Misc/Birth-Months.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Misc/Birth-Months.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Misc/Birth-Months.ipynb). This Python program uses `pandas` and `matplotlib.pyplot` to read data from a public **Google Sheet**, create a **histogram** of the data in the birth month column, and save the histogram as an **image file**. The program also uses comments to document the code and explain what each line or block of code does. 
 + [Wikipedia/Canadian-Population-Barchart.ipynb](Wikipedia/Canadian-Population-Barchart.ipynb) — Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Wikipedia/Canadian-Population-Barchart.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Wikipedia/Canadian-Population-Barchart.ipynb). This program reads in Canadian population data from a table on a page in **Wikipedia**. It showcases how to read in the data, clean it up so it can be plotted, and then plots two **bar charts**.
+
+# PS43
+
+My recommendations and resources for the PS43 data analysis initiative can be found [here](ps43-README.md).
