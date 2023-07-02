@@ -13,6 +13,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added [csv-to-html.py](Utils/csv-to-html.py), a simple utility that can be used to convert a CSV file to an HTML table.
 + Added [markdown-tables.md](Demos/markdown-tables.md) to show how tables in Markdown are created. 
 + Added a [code snippet](Utils/code-snippets/image.md) to show how to insert images into Markdown when they need to be resized or centered.
 + Added [find_table_index.ipynb](Utils/find_table_index.ipynb), a utility that checks for the existence of a table name at a given URL and returns the index of that table. This is useful when scraping data from tables on webpages. You can run this utility directly on Colab [here](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Utils/find_table_index.ipynb).
