@@ -13,8 +13,8 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
-+ Added [where-can-we-get-data-from.ipynb](Demos/where-can-we-get-data-from.ipynb) that is a good starting point for learning the different places can be imported from and then plotting the data using `plotly.express`. 
-+ Added [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb), used to introduce Jupyter Notebooks.
++ Added [where-can-we-get-data-from.ipynb](Demos/where-can-we-get-data-from.ipynb) that is a good starting point for learning the different places can be imported from and then plotting the data using `plotly.express`. ([Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb))
++ Added [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb), used to introduce Jupyter Notebooks. ([Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/jupyter-notebook-demo.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb))
 + Added [csv-to-html.py](Utils/csv-to-html.py), a simple utility that can be used to convert a **CSV file** to an **HTML table**.
 + Added [markdown-tables.md](Demos/markdown-tables.md) to show how tables in Markdown are created. 
 + Added a [code snippet](Utils/code-snippets/image.md) to show how to **insert images into Markdown** when they need to be resized or centered.
