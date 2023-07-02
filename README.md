@@ -13,7 +13,8 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
-+ Added a little [code snippet](Utils/code-snippets/image.md) to remind me how to insert images into Markdown when I need to resize them or center them.
++ Added [markdown-tables.md](Demos/markdown-tables.md) to show how tables in Markdown are created. 
++ Added a [code snippet](Utils/code-snippets/image.md) to show how to insert images into Markdown when they need to be resized or centered.
 + Added [find_table_index.ipynb](Utils/find_table_index.ipynb), a utility that checks for the existence of a table name at a given URL and returns the index of that table. This is useful when scraping data from tables on webpages. You can run this utility directly on Colab [here](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Utils/find_table_index.ipynb).
 + Added [ssl-fix.ipynb](Utils/ssl-fix.ipynb) a fix I occasionally need to use when accessing Google Sheets. Simply copy-and-paste this code into your program before reading in the Google Sheet. Note: read the comments in the notebook. There is a fix that I disovered which should make this code obsolete.
 + Added [clipboard-download.ipynb](Utils/clipboard-download/clipboard-download.ipynb) to demonstrate how to use `pd.read_clipboard()` when `pd.read_html()` won't work. The program also saves the data to a CSV file. 
@@ -32,7 +33,7 @@ Note: if you're having an issue with a Jupyter notebook not displaying in GitHub
 
 <p align="center">
     <a href="https://nbviewer.org/">
-        <img src="images/nbviewer.png" alt="nbviewer" width="75%"/>
+        <img src="Images/nbviewer.png" alt="nbviewer" width="75%"/>
     </a>
 </p>
 
