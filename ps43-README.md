@@ -2,6 +2,8 @@
 
 I will add notes here as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
 
+A rough outline of a process that can be followed is [here](where-to-start.md).
+
 ## Links
 
 - [Peter's OTF Data Analysis video](https://youtu.be/r8D1DU5hmUM)
