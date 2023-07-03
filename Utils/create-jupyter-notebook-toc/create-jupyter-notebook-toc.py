@@ -9,6 +9,12 @@ else:
     jupyter_filename = r'D:\My Documents\GitHub\basketball-and-data-science\content\Copies\09-machine-learning.ipynb'
 
 def create_toc(nb):
+    '''
+    This code defines a function called create_toc that takes a parameter nb. It creates a table of contents (TOC) from a 
+    Jupyter notebook. It iterates over each cell in the notebook and checks if it is a markdown cell starting with a 
+    heading (#). If it is, it extracts the heading level and title, and adds them to the TOC list. Finally, it generates 
+    and returns a markdown string representing the TOC and returns it as a new markdown cell.  
+    '''
     toc = []
     for cell in nb.cells:
         if cell.cell_type == 'markdown' and cell.source.startswith('#'):
@@ -22,15 +28,17 @@ def create_toc(nb):
         toc_md += '  ' * (level - 1) + '- [' + title + '](#' + '-'.join(title.lower().split()) + ')\n'
     return new_markdown_cell(source=toc_md)
 
-
-
+# Read the Jupyter notebook file
 with open(jupyter_filename, 'r') as f:
     nb = nbformat.read(f, as_version=4)
 
+# Create table of contents (TOC) cell
 toc_cell = create_toc(nb)
-# print(toc_cell)
+
+# Insert TOC cell at the beginning of the notebook
 nb.cells.insert(0, new_markdown_cell(source='# Table of Contents\n\n'))
 nb.cells.insert(1, toc_cell)
 
+# Write the modified notebook back to the file
 with open(jupyter_filename, 'w') as f:
     nbformat.write(nb, f)
