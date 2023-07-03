@@ -1,4 +1,4 @@
-# PS43: Start here!
+# PS43-README.md
 
 I will add notes here as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
 
