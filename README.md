@@ -13,6 +13,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added [clear-jupyter-outputs.py](Utils/clear-jupyter-outputs.py), a utility to clear the outputs from all Jupyter Notebooks in a given folder. Thanks to [David Hay](https://github.com/misterhay) for the [original](https://gist.github.com/misterhay/62f2dbfffd9b66288d54b25607a8717a) of this. 
 + Added [player-files-from-folder.py](Utils/player-files-from-folder.py), a quick utility to convert a list of player CSV files to a list.
 + Added a utility to create a table of contents at the top of a Jupyter Notebook. This experiment was ultimately a [bust](Utils/create-jupyter-notebook-toc/README.md), but worth trying. Hopefully someone else can get it working! 
 + Added [where-can-we-get-data-from.ipynb](Demos/where-can-we-get-data-from.ipynb) that is a good starting point for learning the different places can be imported from and then plotting the data using `plotly.express`. ([Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb))
