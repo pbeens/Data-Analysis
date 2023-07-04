@@ -2,6 +2,8 @@
 
 I will add notes here as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
 
+The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
+
 # Where to Start
 
 1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/jupyter-notebook-demo.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb))
