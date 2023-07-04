@@ -8,7 +8,7 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
 1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/jupyter-notebook-demo.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb)) <br>([bit.ly/jupyter01](https://bit.ly/jupyter01))
 
-1. Class Activity: Hello World
+1. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
 
 1. Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)
 
