@@ -18,17 +18,17 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
 1. Introduction to Data Science and Basketball
 
-   1. [01-01-columns.ipynb](bads/01-Intro/01-01-columns.ipynb)
+   1. Lesson: [01-01-columns.ipynb](bads/01-Intro/01-01-columns.ipynb)
 
-   1. [01-02-filtering-data.ipynb](bads/01-Intro/01-02-filtering-data.ipynb)
+   1. Lesson: [01-02-filtering-data.ipynb](bads/01-Intro/01-02-filtering-data.ipynb)
 
-   1. [01-03-sorting-data.ipynb](bads/01-Intro/01-03-sorting-data.ipynb)
+   1. Lesson: [01-03-sorting-data.ipynb](bads/01-Intro/01-03-sorting-data.ipynb)
 
 1. Visualizing Data
 
-   1. [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb)
+   1. Lesson: [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb)
 
-   1. [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb)
+   1. Lesson: [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb)
 
    1. MORE TO COME...
 
