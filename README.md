@@ -13,7 +13,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
-+ Added [01-01-columns.ipynb](bads/01-Intro/01-01-columns.ipynb),[01-02-filtering-data.ipynb](bads/01-Intro/01-02-filtering-data.ipynb), and [01-03-sorting-data.ipynb](bads/01-Intro/01-03-sorting-data.ipynb) to the "bads" (Basketball and Data Science) folder.
++ Added [01-01-columns.ipynb](BADS/01-Intro/01-01-columns.ipynb),[01-02-filtering-data.ipynb](BADS/01-Intro/01-02-filtering-data.ipynb), and [01-03-sorting-data.ipynb](BADS/01-Intro/01-03-sorting-data.ipynb) to the "BADS" (Basketball and Data Science) folder.
 Added [clear-jupyter-outputs.py](Utils/clear-jupyter-outputs.py), a utility to clear the outputs from all Jupyter Notebooks in a given folder. Thanks to [David Hay](https://github.com/misterhay) for the [original](https://gist.github.com/misterhay/62f2dbfffd9b66288d54b25607a8717a) of this. 
 + Added [player-files-from-folder.py](Utils/player-files-from-folder.py), a quick utility to convert a list of player CSV files to a list.
 + Added a utility to create a table of contents at the top of a Jupyter Notebook. This experiment was ultimately a [bust](Utils/create-jupyter-notebook-toc/README.md), but worth trying. Hopefully someone else can get it working! 
