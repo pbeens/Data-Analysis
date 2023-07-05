@@ -13,7 +13,8 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
-+ Added [clear-jupyter-outputs.py](Utils/clear-jupyter-outputs.py), a utility to clear the outputs from all Jupyter Notebooks in a given folder. Thanks to [David Hay](https://github.com/misterhay) for the [original](https://gist.github.com/misterhay/62f2dbfffd9b66288d54b25607a8717a) of this. 
++ Added [01-01-columns.ipynb](bads/01-Intro/01-01-columns.ipynb),[01-02-filtering-data.ipynb](bads/01-Intro/01-02-filtering-data.ipynb), and [01-03-sorting-data.ipynb](bads/01-Intro/01-03-sorting-data.ipynb) to the "bads" (Basketball and Data Science) folder.
+Added [clear-jupyter-outputs.py](Utils/clear-jupyter-outputs.py), a utility to clear the outputs from all Jupyter Notebooks in a given folder. Thanks to [David Hay](https://github.com/misterhay) for the [original](https://gist.github.com/misterhay/62f2dbfffd9b66288d54b25607a8717a) of this. 
 + Added [player-files-from-folder.py](Utils/player-files-from-folder.py), a quick utility to convert a list of player CSV files to a list.
 + Added a utility to create a table of contents at the top of a Jupyter Notebook. This experiment was ultimately a [bust](Utils/create-jupyter-notebook-toc/README.md), but worth trying. Hopefully someone else can get it working! 
 + Added [where-can-we-get-data-from.ipynb](Demos/where-can-we-get-data-from.ipynb) that is a good starting point for learning the different places can be imported from and then plotting the data using `plotly.express`. ([Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb))
@@ -54,6 +55,8 @@ I have written a utility which will take a GitHub ipynb URL and convert it for u
 <br>[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyter.org/try-jupyter)
 
 # Projects 
+
+(not up to data)
 
 + [Sports/NBA/team-roster.ipynb](Sports/NBA/team-roster.ipynb) — Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Sports/NBA/team-roster.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Sports/NBA/team-roster.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Sports/NBA/team-roster.ipynb). The program uses the `nba_api.stats.endpoints` package to access the NBA website and get the roster information for the Toronto Raptors. It then uses the `pandas` library to manipulate and display the data in a tabular format. It uses various pandas attributes, methods, and functions to select, convert, sort, and print the columns of interest. The output shows the names and jersey numbers of the Raptors players in order of their jersey numbers.
 + [Misc/Birth-Months.ipynb](Misc/Birth-Months.ipynb) — Open in 
