@@ -16,7 +16,7 @@ This glossary can be used for any data retrieved using this program stub, which 
 - **FG3M**: 3-Point Field Goals Made (available since the 1979-80 season in the NBA); the total number of 3-point field goals that a player or team has made in a game or a season.
 - **FG3_PCT**: 3-Point Field Goal Percentage (available since the 1979-80 season in the NBA); the formula is FG3M / FG3A.
 - **FGA**: Field Goals Attempted; the total number of field goals (both 2-point and 3-point) that a player or team has attempted in a game or a season.
-- **FGM**: Field Goals Made; the total number of field goals (both 2-point and 3-point) that a player or team has made in a game or a season.
+- **FGM** (or **FG**): Field Goals Made; the total number of field goals (both 2-point and 3-point) that a player or team has made in a game or a season.
 - **FG_PCT**: Field Goal Percentage; the formula is FGM / FGA.
 - **FTA**: Free Throws Attempted; the total number of free throws that a player or team has attempted in a game or a season.
 - **FTM**: Free Throws Made; the total number of free throws that a player or team has made in a game or a season.
