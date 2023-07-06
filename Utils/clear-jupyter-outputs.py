@@ -6,7 +6,7 @@ import os
 import json
 
 # Substitute folder here
-folder = r'D:\My Documents\GitHub\Data-Analysis\Demos'
+folder = r'/Users/peter/Documents/GitHub/Data-Analysis/BADS'
 
 def clear_outputs(notebook_name_and_path):
     """
