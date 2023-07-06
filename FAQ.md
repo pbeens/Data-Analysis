@@ -3,6 +3,8 @@
 These FAQs will be used to record any general things I find interesting about data analysis that I learn along the way. 
 
 # Table of Contents
+- [FAQs](#faqs)
+- [Table of Contents](#table-of-contents)
 - [What is the difference between print() and display() in Jupyter notebooks?](#what-is-the-difference-between-print-and-display-in-jupyter-notebooks)
 - [Why is it preferable to use underscores between the words of a Pandas header?](#why-is-it-preferable-to-use-underscores-between-the-words-of-a-pandas-header)
 - [Explain how the index in a Pandas dataframe works.](#explain-how-the-index-in-a-pandas-dataframe-works)
@@ -13,8 +15,7 @@ These FAQs will be used to record any general things I find interesting about da
 - [What are some good websites for Open Data?](#what-are-some-good-websites-for-open-data)
 - [How can I use Bing Chat AI in Chrome?](#how-can-i-use-bing-chat-ai-in-chrome)
 - [What VS Code extensions do I like?](#what-vs-code-extensions-do-i-like)
-
-
+- [How can I resize an image online?](#how-can-i-resize-an-image-online)
 
 # What is the difference between print() and display() in Jupyter notebooks?
 
@@ -200,3 +201,20 @@ Source: Conversation with Bing, 2023-06-03
 
 + [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): Highlight TODO, FIXME and other annotations within your code.
 + [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): This extension quickly searches your workspace for comment tags like TODO and FIXME and displays them in a tree view in the activity bar. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
+
+# How can I resize an image online?
+
+Adobe has an excellent tool available [here](https://www.adobe.com/express/feature/image/resize), although they do want yoo to create an account. To get around creating an account, resize the image and right-click on that image to download.- [FAQs](#faqs)
+- [FAQs](#faqs)
+- [Table of Contents](#table-of-contents)
+- [What is the difference between print() and display() in Jupyter notebooks?](#what-is-the-difference-between-print-and-display-in-jupyter-notebooks)
+- [Why is it preferable to use underscores between the words of a Pandas header?](#why-is-it-preferable-to-use-underscores-between-the-words-of-a-pandas-header)
+- [Explain how the index in a Pandas dataframe works.](#explain-how-the-index-in-a-pandas-dataframe-works)
+- [How can we display a Pandas dataframe without the index?](#how-can-we-display-a-pandas-dataframe-without-the-index)
+- [How can I convert a Pandas dataframe to CSV and print it to the screen, and optionally save it as a file?](#how-can-i-convert-a-pandas-dataframe-to-csv-and-print-it-to-the-screen-and-optionally-save-it-as-a-file)
+- [How do I create requirements.txt for Python?](#how-do-i-create-requirementstxt-for-python)
+- [How can I use requirements.txt to install the necessary libraries?](#how-can-i-use-requirementstxt-to-install-the-necessary-libraries)
+- [What are some good websites for Open Data?](#what-are-some-good-websites-for-open-data)
+- [How can I use Bing Chat AI in Chrome?](#how-can-i-use-bing-chat-ai-in-chrome)
+- [What VS Code extensions do I like?](#what-vs-code-extensions-do-i-like)
+- [How can I resize an image online?](#how-can-i-resize-an-image-online)
