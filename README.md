@@ -13,6 +13,8 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb), [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb), and [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb) to the "BADS" (Basketball and Data Science) folder.
++ Added [labpython-continents-population.ipynbel](Demos/python-continents-population.ipynb), a bonus demonstration to see how Python can be used to plot multiple charts in a loop.
 + Added [callysto-delete-folder.ipynb](Utils/callysto-delete-folder.ipynb), a utility which can be uploaded to Callysto to delete a folder and all its contents. USE WITh CAUTION!
 + Added [01-01-columns.ipynb](BADS/01-Intro/01-01-columns.ipynb),[01-02-filtering-data.ipynb](BADS/01-Intro/01-02-filtering-data.ipynb), and [01-03-sorting-data.ipynb](BADS/01-Intro/01-03-sorting-data.ipynb) to the "BADS" (Basketball and Data Science) folder.
 Added [clear-jupyter-outputs.py](Utils/clear-jupyter-outputs.py), a utility to clear the outputs from all Jupyter Notebooks in a given folder. Thanks to [David Hay](https://github.com/misterhay) for the [original](https://gist.github.com/misterhay/62f2dbfffd9b66288d54b25607a8717a) of this. 
