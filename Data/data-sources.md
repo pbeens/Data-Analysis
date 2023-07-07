@@ -3,11 +3,18 @@ https://www.basketball-reference.com/
 https://github.com/fivethirtyeight/data/tree/master/nba-raptor<br>
 (also see https://fivethirtyeight.com/features/how-our-raptor-metric-works/)
 
-https://kixstats.com/playerstats/pascal-siakam-8
+https://kixstats.com/playerstats/pascal-siakam-8<br>
 Question: Which shoes gave PS the best "points per minute"?
 
-NBA_API
+NBA_API<br>
 https://github.com/swar/nba_api/blob/master/README.md
+
+raptors-2023.csv<br>
+https://raw.githubusercontent.com/pbeens/Data-Analysis/main/Data/raptors-2023.csv
+
+nba-players.csv<br>
+https://raw.githubusercontent.com/callysto/basketball-and-data-science/main/content/data/nba-players.csv
+---
 
 # Prompt
 
