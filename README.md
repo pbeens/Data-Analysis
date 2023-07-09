@@ -15,6 +15,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added [cheatsheet.md](cheatsheet.md).
 + Added an [activity](Demos/bb-vs-vb-activity) where the students did 10 free throws with a basketball and then with a volleyball and tracked their success
 + Added [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb), [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb), and [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb) to the "BADS" (Basketball and Data Science) folder.
 + Added [labpython-continents-population.ipynbel](Demos/python-continents-population.ipynb), a bonus demonstration to see how Python can be used to plot multiple charts in a loop.
