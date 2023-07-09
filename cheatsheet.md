@@ -56,6 +56,10 @@
 
 ![df.drop()](Images/cheatsheet/drop.png)
 
+## Fixing a multi-index
+
+![df.columns.map('_'.join)](Images/cheatsheet/multi-index-fix.png)
+
 # Plotly Express
 
 Here are some cheat sheets or tutorials that might also help you. 
