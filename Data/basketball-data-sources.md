@@ -27,9 +27,11 @@ https://raw.githubusercontent.com/callysto/basketball-and-data-science/main/cont
 
 ---
 
-# AI Prompt
+# Asking AI for Sources
 
-What are some good websites or data sources for NBA or WNBA CSV files?
+This was an interesting experiment to see how the three most common AI assistants would respond. The prompt was:
+
+*What are some good websites or data sources for NBA or WNBA CSV files?*
 
 ## From ChatGPT
 
