@@ -34,13 +34,15 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
    2. Lesson: [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb)
 
-   3. Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
+   3. Lesson: Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
 
 3. Statistics
 
-   1. INCOMPLETE Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
+   1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
 
-   2. MORE TO COME...
+   1. Lesson: [03-02-statistics.ipynb](BADS/03-statistics/03-02-statistics.ipynb)
+
+   1. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
 
 4. [PS43: Introduction to Python, Jupyter, and pandas: Introduction to Data Science and Basketball](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fbasketball-and-data-science&branch=main&subPath=content/01-introduction.ipynb&depth=1) **CAUTION**: This will mirror the entire  repository into Callysto and will overwrite any previous changes you've made. Do this with caution! (Tip: save any changed files to your local or school drive after making changes, or rename them first.)
 
