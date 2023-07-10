@@ -1,22 +1,33 @@
-https://www.basketball-reference.com/
+# Contents
 
-https://github.com/fivethirtyeight/data/tree/master/nba-raptor<br>
+- [Known Sources](#known-sources)
+- [AI Prompt](#ai-prompt)
+  - [From ChatGPT](#from-chatgpt)
+  - [From Bing Chat](#from-bing-chat)
+  - [From Google Bard](#from-google-bard)
+
+# Known Sources
+
++ https://www.basketball-reference.com/
+
++ https://github.com/fivethirtyeight/data/tree/master/nba-raptor<br>
 (also see https://fivethirtyeight.com/features/how-our-raptor-metric-works/)
 
-https://kixstats.com/playerstats/pascal-siakam-8<br>
++ https://kixstats.com/playerstats/pascal-siakam-8<br>
 Question: Which shoes gave PS the best "points per minute"?
 
-NBA_API<br>
++ NBA_API<br>
 https://github.com/swar/nba_api/blob/master/README.md
 
-raptors-2023.csv<br>
++ raptors-2023.csv<br>
 https://raw.githubusercontent.com/pbeens/Data-Analysis/main/Data/raptors-2023.csv
 
-nba-players.csv<br>
++ nba-players.csv<br>
 https://raw.githubusercontent.com/callysto/basketball-and-data-science/main/content/data/nba-players.csv
+
 ---
 
-# Prompt
+# AI Prompt
 
 What are some good websites or data sources for NBA or WNBA CSV files?
 
