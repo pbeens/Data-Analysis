@@ -48,7 +48,16 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
    1. [Basketball Data Sources](Data/basketball-data-sources.md)
 
-5. [PS43: Introduction to Python, Jupyter, and pandas: Introduction to Data Science and Basketball](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fbasketball-and-data-science&branch=main&subPath=content/01-introduction.ipynb&depth=1) **CAUTION**: This will mirror the entire  repository into Callysto and will overwrite any previous changes you've made. Do this with caution! (Tip: save any changed files to your local or school drive after making changes, or rename them first.)
+   1. [Codeium Playground](https://codeium.com/playground) <br><br>Here are some tips for writing prompts for Codeium:
+      - Keep your prompts short and concise.
+      - Use simple language and avoid jargon.
+      - Avoid using ambiguous words or phrases.
+      - Use specific examples to illustrate your point.
+      - Use active voice instead of passive voice.
+      - Use positive language instead of negative language.
+      - Avoid using questions in your prompts.
+
+2. [PS43: Introduction to Python, Jupyter, and pandas: Introduction to Data Science and Basketball](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fbasketball-and-data-science&branch=main&subPath=content/01-introduction.ipynb&depth=1) **CAUTION**: This will mirror the entire  repository into Callysto and will overwrite any previous changes you've made. Do this with caution! (Tip: save any changed files to your local or school drive after making changes, or rename them first.)
 
 ## Links
 
