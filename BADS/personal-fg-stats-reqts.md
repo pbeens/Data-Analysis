@@ -1,4 +1,4 @@
-You have been collecting data on the number of field goal attempts made (FGA) and the number of field goals(FG).
+You have been collecting data on the number of field goal attempts made (FGA) and the number of field goals (FG).
 
 Record this data in a Google Sheet, in this format:
 
