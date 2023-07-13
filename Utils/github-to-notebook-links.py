@@ -38,8 +38,10 @@ colab_link = github_link.replace('github', 'githubtocolab')
 nbviewer_link = github_link.replace('github.com/', 'nbviewer.org/github/')
 # Create the Callysto link using the function above
 callysto_link = callysto(github_link)
+# Create the Jupyter Labs link using the function above
+jupyter_labs_link = jupyter_labs(github_link)
 
-# Print the Notebook Viewer links
+# Print the links
 print('Callysto')
 print(callysto_link)
 print('Colab')
@@ -51,4 +53,4 @@ print(nbviewer_link)
 print('\nMarkdown:\n')
 
 # Print the markdown format that can be used to embed the links
-print(f'[Callysto]({callysto_link}) | [Colab]({colab_link}) | [NBViewer]({nbviewer_link})')
+print(f'[Callysto]({callysto_link}) | [Colab]({colab_link}) | [NBViewer]({nbviewer_link}))')
