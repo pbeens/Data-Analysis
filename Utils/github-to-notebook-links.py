@@ -39,7 +39,7 @@ nbviewer_link = github_link.replace('github.com/', 'nbviewer.org/github/')
 # Create the Callysto link using the function above
 callysto_link = callysto(github_link)
 # Create the Jupyter Labs link using the function above
-jupyter_labs_link = jupyter_labs(github_link)
+# jupyter_labs_link = jupyter_labs(github_link)
 
 # Print the links
 print('Callysto')
