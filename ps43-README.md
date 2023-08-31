@@ -14,21 +14,23 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
 1. Lesson: [where-can-we-get-data-from.ipynb](Demos/where-can-we-get-data-from.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb)) (Short URL: [bit.ly/data-from-2](https://bit.ly/data-from-2))
 
-1. Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb)) 
+1. Lesson: [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb)
 
-1. BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)
+2. Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb)) 
 
-1. Introduction to Data Science and Basketball
+3. BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)
+
+4. Introduction to Data Science and Basketball
 
    1. Lesson: [01-01-columns.ipynb](BADS/01-Intro/01-01-columns.ipynb)
 
-   1. BONUS! [Basketball vs Volleyball Free Throw Activity](Demos/bb-vs-vb-activity/bb-vs-vb.md)
+   2. BONUS! [Basketball vs Volleyball Free Throw Activity](Demos/bb-vs-vb-activity/bb-vs-vb.md)
 
-   2. Lesson: [01-02-filtering-data.ipynb](BADS/01-Intro/01-02-filtering-data.ipynb)
+   3. Lesson: [01-02-filtering-data.ipynb](BADS/01-Intro/01-02-filtering-data.ipynb)
 
-   3. Lesson: [01-03-sorting-data.ipynb](BADS/01-Intro/01-03-sorting-data.ipynb)
+   4. Lesson: [01-03-sorting-data.ipynb](BADS/01-Intro/01-03-sorting-data.ipynb)
 
-1. Visualizing Data
+5. Visualizing Data
 
    1. Lesson: [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb)
 
@@ -36,21 +38,21 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
    3. Lesson: Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
 
-1. Statistics
+6. Statistics
 
    1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
 
-   1. Lesson: [03-02-statistics.ipynb](BADS/03-statistics/03-02-statistics.ipynb)
+   2. Lesson: [03-02-statistics.ipynb](BADS/03-statistics/03-02-statistics.ipynb)
 
-   1. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
+   3. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
 
-1. Daily Field Goal Project
+7. Daily Field Goal Project
 
    1. [Plot Requirements](BADS/personal-fg-stats-reqts.md)
 
    <br>
 
-2. Final Projects
+8. Final Projects
 
    1. [Basketball Data Sources](Data/basketball-data-sources.md)
 
@@ -63,7 +65,7 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
       - Use positive language instead of negative language.
       - Avoid using questions in your prompts.
 
-3. [PS43: Introduction to Python, Jupyter, and pandas: Introduction to Data Science and Basketball](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fbasketball-and-data-science&branch=main&subPath=content/01-introduction.ipynb&depth=1) **CAUTION**: This will mirror the entire  repository into Callysto and will overwrite any previous changes you've made. Do this with caution! (Tip: save any changed files to your local or school drive after making changes, or rename them first.)
+9.  [PS43: Introduction to Python, Jupyter, and pandas: Introduction to Data Science and Basketball](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fbasketball-and-data-science&branch=main&subPath=content/01-introduction.ipynb&depth=1) **CAUTION**: This will mirror the entire  repository into Callysto and will overwrite any previous changes you've made. Do this with caution! (Tip: save any changed files to your local or school drive after making changes, or rename them first.)
 
 ## Links
 
