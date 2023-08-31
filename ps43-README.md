@@ -14,7 +14,7 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
 1. Lesson: [where-can-we-get-data-from.ipynb](Demos/where-can-we-get-data-from.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb)) (Short URL: [bit.ly/data-from-2](https://bit.ly/data-from-2))
 
-1. Lesson: [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb)
+1. Lesson: [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-csv.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-csv.ipynb))
 
 2. Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb)) 
 
