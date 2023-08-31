@@ -22,7 +22,7 @@
 
 ## CSV file
 
-![pd.read_csv()](Images/cheatsheet/pandas-csv.png)
+![pd.read_csv()](Images/cheatsheet/read-csv.png)
 
 ## Excel file
 
