@@ -14,7 +14,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 # What's New? 
 
 + I've split the "import data from" demo into multiple files:
-  + [Data in the notebook](Demos/where-can-we-get-data-from.ipynb)
+  + [Data in the notebook](Demos/where-can-we-get-data-from-internal.ipynb)
   + [CSV](Demos/where-can-we-get-data-from-csv.ipynb)
   + [Excel](Demos/where-can-we-get-data-from-excel.ipynb)
   + [Webpage](Demos/where-can-we-get-data-from-webpage.ipynb)
@@ -29,7 +29,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 Added [clear-jupyter-outputs.py](Utils/clear-jupyter-outputs.py), a utility to clear the outputs from all Jupyter Notebooks in a given folder. Thanks to [David Hay](https://github.com/misterhay) for the [original](https://gist.github.com/misterhay/62f2dbfffd9b66288d54b25607a8717a) of this. 
 + Added [player-files-from-folder.py](Utils/player-files-from-folder.py), a quick utility to convert a list of player CSV files to a list.
 + Added a utility to create a table of contents at the top of a Jupyter Notebook. This experiment was ultimately a [bust](Utils/create-jupyter-notebook-toc/README.md), but worth trying. Hopefully someone else can get it working! 
-+ Added [where-can-we-get-data-from.ipynb](Demos/where-can-we-get-data-from.ipynb) that is a good starting point for learning the different places can be imported from and then plotting the data using `plotly.express`. ([Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from.ipynb))
++ Added [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb) that is a good starting point for learning the different places can be imported from and then plotting the data using `plotly.express`. ([Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-internal.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-internal.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-internal.ipynb))
 + Added [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb), used to introduce Jupyter Notebooks. ([Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/jupyter-notebook-demo.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb) | [NBViewer](https://nbviewer.org/github/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb))
 + Added [csv-to-html.py](Utils/csv-to-html.py), a simple utility that can be used to convert a **CSV file** to an **HTML table**.
 + Added [markdown-tables.md](Demos/markdown-tables.md) to show how tables in Markdown are created. 
