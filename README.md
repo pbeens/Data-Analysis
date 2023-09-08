@@ -18,7 +18,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
   + [CSV](Demos/where-can-we-get-data-from-csv.ipynb)
   + [Excel](Demos/where-can-we-get-data-from-excel.ipynb)
   + [Webpage](Demos/where-can-we-get-data-from-webpage.ipynb)
-  + more to come...
+  + [Google Sheet](Demos/where-can-we-get-data-from-google-sheet.ipynb)
 + Added [dealing-with-percent-symbols-and-y-scaling.ipynb](Demos/dealing-with-percent-symbols-and-y-scaling.ipynb) which demonstrates how to deal with percent symbols in your input file and how to scale the y-axis on your plot.
 + Added [cheatsheet.md](cheatsheet.md).
 + Added an [activity](Demos/bb-vs-vb-activity) where the students did 10 free throws with a basketball and then with a volleyball and tracked their success
