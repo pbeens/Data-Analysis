@@ -21,6 +21,8 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
    4. [where-can-we-get-data-from-webpage.ipynb](Demos/where-can-we-get-data-from-webpage.ipynb)
 
+   5. [where-can-we-get-data-from-google-sheet.ipynb](Demos/where-can-we-get-data-from-google-sheet.ipynb)
+
 2. Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb)) 
 
 3. BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)
