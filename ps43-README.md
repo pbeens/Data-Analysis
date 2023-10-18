@@ -10,7 +10,7 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
 1. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
 
-1. Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)
+1. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
 
 1. Lessons: 
    1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-internal.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-internal.ipynb)) (Short URL: [bit.ly/data-from-2](https://bit.ly/data-from-2))
@@ -23,15 +23,15 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
    5. [where-can-we-get-data-from-google-sheet.ipynb](Demos/where-can-we-get-data-from-google-sheet.ipynb)
 
-2. Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb)) 
+2. ~~Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))~~
 
-3. BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)
+3. ~~BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)~~
 
 4. Introduction to Data Science and Basketball
 
    1. Lesson: [01-01-columns.ipynb](BADS/01-Intro/01-01-columns.ipynb)
 
-   2. BONUS! [Basketball vs Volleyball Free Throw Activity](Demos/bb-vs-vb-activity/bb-vs-vb.md)
+   2. ~~BONUS! [Basketball vs Volleyball Free Throw Activity](Demos/bb-vs-vb-activity/bb-vs-vb.md)~~
 
    3. Lesson: [01-02-filtering-data.ipynb](BADS/01-Intro/01-02-filtering-data.ipynb)
 
