@@ -13,10 +13,11 @@
   - [What's at the bottom of the data?](#whats-at-the-bottom-of-the-data)
 - [Cleaning the data](#cleaning-the-data)
   - [Deleting rows](#deleting-rows)
+  - [Fixing a multi-index](#fixing-a-multi-index)
 - [Plotly Express](#plotly-express)
   - [Import the library](#import-the-library)
   - [Bar chart](#bar-chart)
-
+  - [Comparison Operators](#comparison-operators)
 
 # Getting Data
 
@@ -75,5 +76,17 @@ Here are some cheat sheets or tutorials that might also help you.
 
 ## Bar chart
 
-
 ![fig = px.bar()](Images/cheatsheet/plotly-express-bar-chart.png)
+
+## Comparison Operators
+
+|Symbol|Meaning|
+|-|-|
+|>|greater than|
+|<|less than|
+|==|is equal to|
+|!=|not equal to|
+|>=|greater than or equal to|
+|<=|less than or equal to|
+|&|and|
+|\||or|
