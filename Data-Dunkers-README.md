@@ -13,14 +13,14 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 # Where to Start
 
-1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/jupyter-notebook-demo.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb)) (Short URL: [bit.ly/jupyter01](https://bit.ly/jupyter01))
+1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/jupyter-notebook-demo.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb))
 
-1. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
+2. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
 
-1. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
+3. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
 
-1. Lessons: 
-   1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-internal.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-internal.ipynb)) (Short URL: [bit.ly/data-from-2](https://bit.ly/data-from-2))
+4. Lessons: 
+   1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-internal.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-internal.ipynb)) 
 
    2. [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-csv.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-csv.ipynb))
 
@@ -30,11 +30,11 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
    5. [where-can-we-get-data-from-google-sheet.ipynb](Demos/where-can-we-get-data-from-google-sheet.ipynb)
 
-2. ~~Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))~~
+5. ~~Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))~~
 
-3. ~~BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)~~
+6. ~~BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)~~
 
-4. Introduction to Data Science and Basketball
+7. Introduction to Data Science and Basketball
 
    1. Lesson: [01-01-columns.ipynb](BADS/01-Intro/01-01-columns.ipynb)
 
@@ -44,7 +44,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
    4. Lesson: [01-03-sorting-data.ipynb](BADS/01-Intro/01-03-sorting-data.ipynb)
 
-5. Visualizing Data
+8. Visualizing Data
 
    1. Lesson: [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb)
 
@@ -52,7 +52,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
    3. Lesson: Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
 
-6. Statistics
+9. Statistics
 
    1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
 
@@ -60,7 +60,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
    3. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
 
-7. ~~Daily Field Goal Project~~
+10. ~~Daily Field Goal Project~~
 
    1. ~~[Plot Requirements](BADS/personal-fg-stats-reqts.md)~~
 
