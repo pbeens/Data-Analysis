@@ -75,4 +75,4 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 - [Mirror *this* repository (Data-Analysis) into Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis) (runs directly) 
   
-**CAUTION**: Re-mirroring a repository into Callysto will overwrite any previous changes you've made. Do this with caution! (Tip: save any changed files to your local or school drive after making changes, or rename them first.)
+**CAUTION**: Re-mirroring a repository into Callysto may overwrite any previous changes you've made. Do this with caution! (Tip: save any changed files to your local or school drive after making changes, or rename them first.)
