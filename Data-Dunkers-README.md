@@ -1,4 +1,4 @@
-# PS43-README.md
+# Data-Dunkers-README.md
 
 I will add notes here as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
 
@@ -68,9 +68,9 @@ The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
 
 [![](https://markdown-videos.vercel.app/youtube/r8D1DU5hmUM)](https://youtu.be/r8D1DU5hmUM)
 
-- [Callysto PS43 Repo](https://github.com/callysto/basketball-and-data-science)
+- [Callysto Data-Dunkers Repo](https://github.com/callysto/basketball-and-data-science)
   
-- [Mirror the Callysto PS43 repository into Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fbasketball-and-data-science&branch=main&subPath=content/01-introduction.ipynb&depth=1) (runs directly)
+- [Mirror the Callysto Data-Dunkers repository into Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fbasketball-and-data-science&branch=main&subPath=content/01-introduction.ipynb&depth=1) (runs directly)
 <br>This is the short URL to do the same thing: [https://tinyurl.com/bball-ds-01](https://tinyurl.com/bball-ds-01)
 
 - [Mirror *this* repository (Data-Analysis) into Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis) (runs directly) 
