@@ -13,18 +13,18 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 # Where to Start
 
-1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/jupyter-notebook-demo.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/jupyter-notebook-demo.ipynb))
+1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb) — Includes basics of Markdown)
 
 2. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
 
 3. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
 
 4. Lessons: 
-   1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-internal.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-internal.ipynb)) 
+   1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb) — Shows how to use list data to produce a line chart.
 
-   2. [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-csv.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-csv.ipynb))
+   2. [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb) — Shows how to access data from a Comma Separated Values (CSV) file. Also shows how to use head() and tail() to show the top or bottom rows, respectively, of your data.
 
-   3. [where-can-we-get-data-from-excel.ipynb](Demos/where-can-we-get-data-from-excel.ipynb) (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Demos/where-can-we-get-data-from-excel.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Demos/where-can-we-get-data-from-excel.ipynb))
+   3. [where-can-we-get-data-from-excel.ipynb](Demos/where-can-we-get-data-from-excel.ipynb) 
 
    4. [where-can-we-get-data-from-webpage.ipynb](Demos/where-can-we-get-data-from-webpage.ipynb)
 
