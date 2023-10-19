@@ -2,7 +2,7 @@
 
 <div align="center"><div style="font-size:larger;">
 <strong>
-If you are part of the TCDSB Teachers PD you can find my slides at <br><a href="https://bit.ly/data-dunker-teachers-slides">bit.ly/data-dunker-teachers-slides</a>.
+If you are part of the TCDSB Teachers PD, you can find my slides at <br><a href="https://bit.ly/data-dunker-teachers-slides">bit.ly/data-dunker-teachers-slides</a>.
 </strong>
 </div></div>
 <br>
