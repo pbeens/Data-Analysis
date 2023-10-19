@@ -2,7 +2,7 @@
 
 I will add notes here as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
 
-The short URL of this document is [bit.ly/ps43-doc](https://bit.ly/ps43-doc).
+The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-dunkers-doc).
 
 # Where to Start
 
