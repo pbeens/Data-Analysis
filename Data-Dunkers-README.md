@@ -1,5 +1,10 @@
 # Data-Dunkers-README.md
 
+<div style="text-align:center;font-size:larger;">
+<strong>If you are part of the TCDSB Teachers PD you can find my slides at <br><a>bit.ly/data-dunker-teachers-slides<a href="[Data-Dunkers-README.md](https://bit.ly/data-dunker-teachers-slides)"></a>!</strong>
+</div>
+<br>
+
 I will add notes here as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
 
 The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-dunkers-doc).
