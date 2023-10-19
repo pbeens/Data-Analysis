@@ -1,7 +1,6 @@
 # CheatSheet.md
 
 # Table of Contents
-
 - [Getting Data](#getting-data)
   - [CSV file](#csv-file)
   - [Excel file](#excel-file)
@@ -14,6 +13,7 @@
 - [Cleaning the data](#cleaning-the-data)
   - [Deleting rows](#deleting-rows)
   - [Fixing a multi-index](#fixing-a-multi-index)
+  - [Renaming Columns](#renaming-columns)
 - [Plotly Express](#plotly-express)
   - [Import the library](#import-the-library)
   - [Bar chart](#bar-chart)
@@ -60,6 +60,12 @@
 ## Fixing a multi-index
 
 ![df.columns.map('_'.join)](Images/cheatsheet/multi-index-fix.png)
+
+## Renaming Columns
+
+![Alt text](Images/cheatsheet/rename.png)
+
+![Alt text](Images/cheatsheet/rename_2.png)
 
 # Plotly Express
 
