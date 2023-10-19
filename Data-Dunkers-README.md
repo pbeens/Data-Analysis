@@ -13,22 +13,31 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 # Where to Start
 
-1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb) — Includes basics of Markdown)
+1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb)
+      - Includes basics of Markdown.
 
 2. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
 
 3. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
 
 4. Lessons: 
-   1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb) — Shows how to use list data to produce a line chart.
+   1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb)
+      - Shows how to use internal list data (`[]`) to produce a line chart.
 
-   2. [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb) — Shows how to access data from a Comma Separated Values (CSV) file. Also shows how to use head() and tail() to show the top or bottom rows, respectively, of your data.
+   2. [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb)
+      -  Shows how to access data from a Comma Separated Values (CSV) file. 
+      -  Introduces how to use `head()` and `tail()` to show the top or bottom rows, respectively, of your data.
+      -  Introduces how to get the name of the columns using `df.columns`.
+      -  Introduces how to rename columns. 
 
-   3. [where-can-we-get-data-from-excel.ipynb](Demos/where-can-we-get-data-from-excel.ipynb) 
+   3. [where-can-we-get-data-from-excel.ipynb](Demos/where-can-we-get-data-from-excel.ipynb)
+      - Shows how to access data from an Excel file. 
 
    4. [where-can-we-get-data-from-webpage.ipynb](Demos/where-can-we-get-data-from-webpage.ipynb)
+      - Shows how to access data from a table on a webpage.
 
    5. [where-can-we-get-data-from-google-sheet.ipynb](Demos/where-can-we-get-data-from-google-sheet.ipynb)
+      - Shows how to access data from a Google Sheet.
 
 5. ~~Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))~~
 
@@ -37,12 +46,17 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 7. Introduction to Data Science and Basketball
 
    1. Lesson: [01-01-columns.ipynb](BADS/01-Intro/01-01-columns.ipynb)
+      - How to see what columns are in the data.
+      - How how to view specific columns of the data.
 
    2. ~~BONUS! [Basketball vs Volleyball Free Throw Activity](Demos/bb-vs-vb-activity/bb-vs-vb.md)~~
 
    3. Lesson: [01-02-filtering-data.ipynb](BADS/01-Intro/01-02-filtering-data.ipynb)
+      - How to extra data that meets specific criteria.
 
    4. Lesson: [01-03-sorting-data.ipynb](BADS/01-Intro/01-03-sorting-data.ipynb)
+      - How to delete unwanted rows using `df.drop()`.
+      - How to sort the data using `df.sort_values()`.
 
 8. Visualizing Data
 
@@ -52,7 +66,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
    3. Lesson: Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
 
-9. Statistics
+9.  Statistics
 
    1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
 
