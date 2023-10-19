@@ -1,7 +1,7 @@
 # README.md
 
 <div align="center">
-<div style="text-align:center;font-size:larger;">
+<div style="font-size:larger;">
 <strong>Data Dunkers Start <a href="Data-Dunkers-README.md">HERE</a>!</strong>
 </div>
 </div>
