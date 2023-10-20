@@ -90,7 +90,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
        - We learn how to make new columns using the data from other columns.
        - We learn how to use `round()` to round numbers.
 
-10. Assignment: [Creating a Histogram of our Survey Data](Misc/tcdsb-pd.ipynb)
+10. **TCDSB Teachers Assignment**: [Creating a Histogram of our Survey Data](Misc/tcdsb-pd.ipynb)
 
 11. ~~Daily Field Goal Project~~
 
