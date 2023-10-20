@@ -52,7 +52,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
    2. ~~BONUS! [Basketball vs Volleyball Free Throw Activity](Demos/bb-vs-vb-activity/bb-vs-vb.md)~~
 
    3. Lesson: [01-02-filtering-data.ipynb](BADS/01-Intro/01-02-filtering-data.ipynb)
-      - How to extra data that meets specific criteria.
+      - How to extract data that meets specific criteria.
 
    4. Lesson: [01-03-sorting-data.ipynb](BADS/01-Intro/01-03-sorting-data.ipynb)
       - How to delete unwanted rows using `df.drop()`.
@@ -61,18 +61,34 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 8. Visualizing Data
 
    1. Lesson: [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb)
+      - How to create a bar chart.
+      - How to plot multiple columns using a list (`[ ]`).
+      - How to rename the x-axis using `fig.update_xaxes(title='')`.
+      - How to rename the y-axis using `fig.update_yaxes(title='')`. 
 
    2. Lesson: [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb)
+      - How to create a scatter plot.
+      - How to delete unwanted rows using `df.drop(n, inplace=True)`.
+      - Method chaining is introduced.
+      - The Plotly Express `color=` and `size=` options are introduced.
 
-   3. Lesson: Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
+   3. Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
+      - How to create a pie chart.
 
 9.  Statistics
 
    1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
+       - How to create a histogram.
 
    2. Lesson: [03-02-statistics.ipynb](BADS/03-statistics/03-02-statistics.ipynb)
+       - Looking at basic statistics such as `min()`, `max()`, `median()`, `mean()`.
+       - How to look at the stats of all the numeric columns.
+       - How to look at the stats of all columns using `df.describe()`.
+       - How to use **f-strings** to control the number of decimal places that are printed.
 
    3. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
+       - We learn how to make new columns using the data from other columns.
+       - We learn how to use `round()` to round numbers.
 
 10. ~~Daily Field Goal Project~~
 
@@ -85,12 +101,14 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 ## Links
 
+- [Cheat Sheet](cheatsheet.md)
+
 - [Peter's OTF Data Analysis video](https://youtu.be/r8D1DU5hmUM)
 
 [![](https://markdown-videos.vercel.app/youtube/r8D1DU5hmUM)](https://youtu.be/r8D1DU5hmUM)
 
 - [Callysto Data-Dunkers Repo](https://github.com/callysto/basketball-and-data-science)
-  
+
 - [Mirror the Callysto Data-Dunkers repository into Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fbasketball-and-data-science&branch=main&subPath=content/01-introduction.ipynb&depth=1) (runs directly)
 <br>This is the short URL to do the same thing: [https://tinyurl.com/bball-ds-01](https://tinyurl.com/bball-ds-01)
 
