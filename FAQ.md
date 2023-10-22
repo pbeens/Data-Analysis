@@ -203,6 +203,7 @@ Source: Conversation with Bing, 2023-06-03
 + [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): Highlight TODO, FIXME and other annotations within your code.
 + [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): This extension quickly searches your workspace for comment tags like TODO and FIXME and displays them in a tree view in the activity bar. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
 + [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap): Take beautiful screenshots of your code in VS Code!
++ [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf): Lets you view PDFs in VS Code.
 
 # How can I resize an image online?
 
