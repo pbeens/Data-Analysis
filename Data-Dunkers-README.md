@@ -22,11 +22,11 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb)
       - Includes basics of Markdown.
 
-2. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
+1. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
 
-3. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
+1. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
 
-4. Lessons: 
+1. Getting Data Lessons: 
    1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb)
       - Shows how to use internal list data (`[]`) to produce a line chart.
 
@@ -46,11 +46,11 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
    5. [where-can-we-get-data-from-google-sheet.ipynb](Demos/where-can-we-get-data-from-google-sheet.ipynb)
       - Shows how to access data from a Google Sheet.
 
-5. ~~Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))~~
+1. ~~Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))~~
 
-6. ~~BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)~~
+1. ~~BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)~~
 
-7. Introduction to Data Science and Basketball
+1. Introduction to Data Science and Basketball
 
    1. Lesson: [01-01-columns.ipynb](BADS/01-Intro/01-01-columns.ipynb)
       - How to see what columns are in the data.
@@ -65,7 +65,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
       - How to delete unwanted rows using `df.drop()`.
       - How to sort the data using `df.sort_values()`.
 
-8. Visualizing Data
+1. Visualizing Data
 
    1. Lesson: [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb)
       - How to create a bar chart.
@@ -82,7 +82,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
    3. Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
       - How to create a pie chart.
 
-9.  Statistics
+1.  Statistics
 
    1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
        - How to create a histogram.
@@ -97,16 +97,18 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
        - We learn how to make new columns using the data from other columns.
        - We learn how to use `round()` to round numbers.
 
-10. **TCDSB Teachers Assignment**: [Creating a Histogram of our Survey Data](Misc/tcdsb-pd.ipynb)
-
-11. ~~Daily Field Goal Project~~
+1. ~~Daily Field Goal Project~~
 
    1. ~~[Plot Requirements](BADS/personal-fg-stats-reqts.md)~~
 
 
-12.  ~~Final Projects~~
+1.  ~~Final Projects~~
 
    1. ~~[Basketball Data Sources](Data/basketball-data-sources.md)~~
+
+## Old Activities
+
+1. **TCDSB Teachers Assignment**: [Creating a Histogram of our Survey Data](Misc/tcdsb-pd.ipynb) (from October 2023 workshop)
 
 ## Links
 
