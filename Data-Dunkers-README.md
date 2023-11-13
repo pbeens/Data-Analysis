@@ -1,8 +1,5 @@
 # Data-Dunkers-README.md
 
-Open this in 
-[Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Data-Dunkers-README.md&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Data-Dunkers-README.md)
-
 If you are part of the TCDSB Students PD, you can find my slides at 
 <br>
 
@@ -17,6 +14,8 @@ I will add notes to this resource as I develop support material to go along with
 The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-dunkers-doc). 
 
 *I recommend you bookmark this page so you can come back to it easily.*
+
+*Note: if you plan to use Callysto for these lessons you can mirror the entire repository into it by clicking [here](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Data-Dunkers-README.md&depth=1).*
 
 # Where to Start
 
