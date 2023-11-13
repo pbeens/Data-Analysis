@@ -21,14 +21,17 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 1. Lesson: [jupyter-notebook-demo.ipynb](Demos/jupyter-notebook-demo.ipynb)
       - Includes basics of Markdown.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
-1. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
+2. Class Activity: [hello-world.ipynb](Misc/hello-world.ipynb)
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
-1. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
+3. ~~Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)~~
 
-1. Getting Data Lessons: 
+4. Getting Data Lessons: 
    1. [where-can-we-get-data-from-internal.ipynb](Demos/where-can-we-get-data-from-internal.ipynb)
       - Shows how to use internal list data (`[]`) to produce a line chart.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    2. [where-can-we-get-data-from-csv.ipynb](Demos/where-can-we-get-data-from-csv.ipynb)
       -  Shows how to access data from a Comma Separated Values (CSV) file. 
@@ -36,68 +39,81 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
       -  Introduces how to get the name of the columns using `df.columns`.
       -  Introduces how to rename columns. 
       -  Introduced Python variables.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    3. [where-can-we-get-data-from-excel.ipynb](Demos/where-can-we-get-data-from-excel.ipynb)
       - Shows how to access data from an Excel file. 
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    4. [where-can-we-get-data-from-webpage.ipynb](Demos/where-can-we-get-data-from-webpage.ipynb)
       - Shows how to access data from a table on a webpage.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    5. [where-can-we-get-data-from-google-sheet.ipynb](Demos/where-can-we-get-data-from-google-sheet.ipynb)
       - Shows how to access data from a Google Sheet.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
-1. ~~Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))~~
+5. ~~Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))~~
 
-1. ~~BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)~~
+6. ~~BONUS! [python-continents-population.ipynb](Demos/python-continents-population.ipynb)~~
 
-1. Introduction to Data Science and Basketball
+7. Introduction to Data Science and Basketball
 
    1. Lesson: [01-01-columns.ipynb](BADS/01-Intro/01-01-columns.ipynb)
       - How to see what columns are in the data.
       - How how to view specific columns of the data.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    2. ~~BONUS! [Basketball vs Volleyball Free Throw Activity](Demos/bb-vs-vb-activity/bb-vs-vb.md)~~
 
    3. Lesson: [01-02-filtering-data.ipynb](BADS/01-Intro/01-02-filtering-data.ipynb)
       - How to extract data that meets specific criteria.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    4. Lesson: [01-03-sorting-data.ipynb](BADS/01-Intro/01-03-sorting-data.ipynb)
       - How to delete unwanted rows using `df.drop()`.
       - How to sort the data using `df.sort_values()`.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
-1. Visualizing Data
+8. Visualizing Data
 
    1. Lesson: [02-01-bar-graphs.ipynb](BADS/02-visualize/02-01-bar-graphs.ipynb)
       - How to create a bar chart.
       - How to plot multiple columns using a list (`[ ]`).
       - How to rename the x-axis using `fig.update_xaxes(title='')`.
       - How to rename the y-axis using `fig.update_yaxes(title='')`. 
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    2. Lesson: [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb)
       - How to create a scatter plot.
       - How to delete unwanted rows using `df.drop(n, inplace=True)`.
       - Method chaining is introduced.
       - The Plotly Express `color=` and `size=` options are introduced.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    3. Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
       - How to create a pie chart.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
-1.  Statistics
+9.  Statistics
 
    1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
        - How to create a histogram.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    2. Lesson: [03-02-statistics.ipynb](BADS/03-statistics/03-02-statistics.ipynb)
        - Looking at basic statistics such as `min()`, `max()`, `median()`, `mean()`.
        - How to look at the stats of all the numeric columns.
        - How to look at the stats of all columns using `df.describe()`.
        - How to use **f-strings** to control the number of decimal places that are printed.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
    3. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
        - We learn how to make new columns using the data from other columns.
        - We learn how to use `round()` to round numbers.
+      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
-1. ~~Daily Field Goal Project~~
+10. ~~Daily Field Goal Project~~
 
    1. ~~[Plot Requirements](BADS/personal-fg-stats-reqts.md)~~
 
