@@ -99,32 +99,32 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 9.  Statistics
 
-   1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
-       - How to create a histogram.
-      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
+       1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
+           - How to create a histogram.
+          - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
  
-   2. Lesson: [03-02-statistics.ipynb](BADS/03-statistics/03-02-statistics.ipynb)
-       - Looking at basic statistics such as `min()`, `max()`, `median()`, `mean()`.
-       - How to look at the stats of all the numeric columns.
-       - How to look at the stats of all columns using `df.describe()`.
-       - How to use **f-strings** to control the number of decimal places that are printed.
-      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
+       1. Lesson: [03-02-statistics.ipynb](BADS/03-statistics/03-02-statistics.ipynb)
+           - Looking at basic statistics such as `min()`, `max()`, `median()`, `mean()`.
+           - How to look at the stats of all the numeric columns.
+           - How to look at the stats of all columns using `df.describe()`.
+           - How to use **f-strings** to control the number of decimal places that are printed.
+          - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
    
-   3. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
-       - We learn how to make new columns using the data from other columns.
-       - We learn how to use `round()` to round numbers.
-      - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
+       2. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
+           - We learn how to make new columns using the data from other columns.
+           - We learn how to use `round()` to round numbers.
+          - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
   
-   4. Timed Activity: Binary Basketball Activity!
+   1. Timed Activity: 1:30 [Binary Basketball Activity!](https://bit.ly/hoops-data)
 
 10. ~~Daily Field Goal Project~~
 
-   1. ~~[Plot Requirements](BADS/personal-fg-stats-reqts.md)~~
+       1. ~~[Plot Requirements](BADS/personal-fg-stats-reqts.md)~~
 
 
 1.  ~~Final Projects~~
 
-   1. ~~[Basketball Data Sources](Data/basketball-data-sources.md)~~
+       1. ~~[Basketball Data Sources](Data/basketball-data-sources.md)~~
 
 ## Old Activities
 
