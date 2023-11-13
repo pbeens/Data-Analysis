@@ -36,6 +36,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
       -  Introduces how to use `head()` and `tail()` to show the top or bottom rows, respectively, of your data.
       -  Introduces how to get the name of the columns using `df.columns`.
       -  Introduces how to rename columns. 
+      -  Introduced Python variables.
 
    3. [where-can-we-get-data-from-excel.ipynb](Demos/where-can-we-get-data-from-excel.ipynb)
       - Shows how to access data from an Excel file. 
