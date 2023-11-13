@@ -84,14 +84,16 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
       - How to rename the y-axis using `fig.update_yaxes(title='')`. 
       - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
-   2. Lesson: [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb)
+   2. TIMED ACTIVITY: 10:30 [Mini Basketball Labyrinth](https://bit.ly/dd-mini-bb)
+
+   3. Lesson: [02-02-scatter-plots.ipynb](BADS/02-visualize/02-02-scatter-plots.ipynb)
       - How to create a scatter plot.
       - How to delete unwanted rows using `df.drop(n, inplace=True)`.
       - Method chaining is introduced.
       - The Plotly Express `color=` and `size=` options are introduced.
       - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
-   3. Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
+   1. Lesson: [02-03-pie-charts.ipynb](BADS/02-visualize/02-03-pie-charts.ipynb)
       - How to create a pie chart.
       - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
 
@@ -100,18 +102,20 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
    1. Lesson: [03-01-histograms.ipynb](BADS/03-statistics/03-01-histograms.ipynb)
        - How to create a histogram.
       - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
-
+ 
    2. Lesson: [03-02-statistics.ipynb](BADS/03-statistics/03-02-statistics.ipynb)
        - Looking at basic statistics such as `min()`, `max()`, `median()`, `mean()`.
        - How to look at the stats of all the numeric columns.
        - How to look at the stats of all columns using `df.describe()`.
        - How to use **f-strings** to control the number of decimal places that are printed.
       - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
-
+   
    3. Lesson: [03-03-new-columns.ipynb](BADS/03-statistics/03-03-new-columns.ipynb)
        - We learn how to make new columns using the data from other columns.
        - We learn how to use `round()` to round numbers.
       - ([Shoot some hoops!](Misc/shoot-some-hoops.md))
+  
+   4. Timed Activity: Binary Basketball Activity!
 
 10. ~~Daily Field Goal Project~~
 
