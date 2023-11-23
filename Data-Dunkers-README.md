@@ -4,7 +4,6 @@
 
 If you are part of the TCDSB Students PD, you can find my slides at 
 <br>
-ß
 - **[bit.ly/dd-slides](https://bit.ly/dd-slides)**
 
 I will add notes to this resource as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
