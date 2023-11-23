@@ -4,7 +4,7 @@
 
 If you are part of the TCDSB Students PD, you can find my slides at 
 <br>
-
+ß
 - **[bit.ly/dd-slides](https://bit.ly/dd-slides)**
 
 I will add notes to this resource as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
@@ -40,7 +40,7 @@ Previous content has been moved to the *Old Activities/Links* section below.
 
 1. Class Activity: [population-challenge.ipynb](Plotly/Challenges/population-challenge.ipynb). (Open in [Callysto](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Plotly/Challenges/population-challenge.ipynb&depth=1) | [Colab](https://githubtocolab.com/pbeens/Data-Analysis/blob/main/Plotly/Challenges/population-challenge.ipynb))
 
-## Links
+# Links
 
 - [Cheat Sheet](cheatsheet.md)
 
