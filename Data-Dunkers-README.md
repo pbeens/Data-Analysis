@@ -12,6 +12,10 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 *Note: if you plan to use Callysto for these lessons you can mirror the entire repository into it by clicking [here](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Data-Dunkers-README.md&depth=1).*
 
+# Previous Workshop Slides
+
+- [TCDSB Grade 9 Students, November 2023](https://docs.google.com/presentation/d/1_lDpJLvLsbAde0jc_SuN_9O4qKdHd28SXNgPfXJyo40/edit?usp=sharing)
+
 # Where to Start
 
 All lessons have been moved to [Google Slides](https://bit.ly/dd-slides).
