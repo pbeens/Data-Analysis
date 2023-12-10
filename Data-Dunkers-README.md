@@ -14,7 +14,11 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 
 # Previous Workshop Slides
 
-- [TCDSB Grade 9 Students, November 2023](https://docs.google.com/presentation/d/1_lDpJLvLsbAde0jc_SuN_9O4qKdHd28SXNgPfXJyo40/edit?usp=sharing)
+- TDSB Teachers Workshop, December 2023 (forthcoming) | [Student Slides](https://bit.ly/dd-slides)
+- [TCDSB St Dorothy Grade 7 Presentation, November 2023](https://docs.google.com/presentation/d/1pHaoC7vEUOipnP36v0nEZqVJTvyv6LNHbIkEMsK2TDY/edit?usp=sharing)
+- [TCDSB Percy Johnson Grade 9 & 11 Presentation, November 2023](https://docs.google.com/presentation/d/13zEazGi96pzduxMaJaayxsgKHMM8sZXrJbvVPLp-hEk/edit?usp=sharing)
+- [TCDSB St Basils Grade 9 Presentation, November 2023](https://docs.google.com/presentation/d/1_lDpJLvLsbAde0jc_SuN_9O4qKdHd28SXNgPfXJyo40/edit?usp=sharing)
+
 
 # Where to Start
 
