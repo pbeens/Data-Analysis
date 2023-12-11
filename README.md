@@ -21,6 +21,7 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ Added [hoops-graph.ipynb](PBL/hoops-graph.ipynb).
 + The [Data-Dunkers-README.md](Data-Dunkers-README.md) activities have been moved to a Google Sheet. It can be found at [bit.ly/dd-slides](https://bit.ly/dd-slides).
 + Links have been created between the BADS (Basketball and Data Science) tutorials
 + "PS43" has been changed to "Data Dunkers"
