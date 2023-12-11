@@ -1,16 +1,24 @@
 # Data-Dunkers-README.md
 
-*version: 2023-11-22 @ 17:35*
+*version: 2023-12-20 @ 18:43*
 
-If you are part of the TCDSB Students PD, you can find my slides at 
+If you are part of the TDSB Teachers workshop, you can find my slides at 
 <br>
-- **[bit.ly/dd-slides](https://bit.ly/dd-slides)**
+- **[https://bit.ly/pbl-hoops](https://bit.ly/pbl-hoops)**
 
-I will add notes to this resource as I develop support material to go along with the Callysto resources found [here](https://github.com/callysto/basketball-and-data-science).
+Many of the resources found or mentioned here are built upon on the tutorials found at [github.com/callysto/basketball-and-data-science](https://github.com/callysto/basketball-and-data-science), used with permission.
 
 The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-dunkers-doc). 
 
 *Note: if you plan to use Callysto for these lessons you can mirror the entire repository into it by clicking [here](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Data-Dunkers-README.md&depth=1).*
+
+# Where to Start
+
+The master set of lessons has been moved to [Google Slides](https://bit.ly/dd-slides). 
+
+The project-based lesson for creating the basketball hoops graph can be found [here](https://bit.ly/pbl-hoops).
+
+Previous workshop slides can be found in the next section:
 
 # Previous Workshop Slides
 
@@ -19,17 +27,7 @@ The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-
 - [TCDSB Percy Johnson Grade 9 & 11 Presentation, November 2023](https://docs.google.com/presentation/d/13zEazGi96pzduxMaJaayxsgKHMM8sZXrJbvVPLp-hEk/edit?usp=sharing)
 - [TCDSB St Basils Grade 9 Presentation, November 2023](https://docs.google.com/presentation/d/1_lDpJLvLsbAde0jc_SuN_9O4qKdHd28SXNgPfXJyo40/edit?usp=sharing)
 
-
-# Where to Start
-
-All lessons have been moved to [Google Slides](https://bit.ly/dd-slides).
-
-Previous content has been moved to the *Old Activities/Links* section below.
-
-# Old Activities/Links
-
-1. If you were part of the TCDSB Teachers PD, you can find my slides at 
-[bit.ly/data-dunker-teachers-slides](https://bit.ly/data-dunker-teachers-slides)
+# Old Activity Links
 
 1. Class Activity: [food-survey-template.ipynb](Misc/food-survey-template.ipynb)
 
