@@ -1,16 +1,12 @@
 # Data-Dunkers-README.md
 
-*version: 2023-12-20 @ 18:43*
+*The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-dunkers-doc).*
 
 If you are part of the TDSB Teachers workshop, you can find my slides at 
 <br>
 - **[https://bit.ly/pbl-hoops](https://bit.ly/pbl-hoops)**
 
 Many of the resources found or mentioned here are built upon on the tutorials found at [github.com/callysto/basketball-and-data-science](https://github.com/callysto/basketball-and-data-science), used with permission.
-
-The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-dunkers-doc). 
-
-*Note: if you plan to use Callysto for these lessons you can mirror the entire repository into it by clicking [here](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/pbeens/Data-Analysis&branch=main&subPath=Data-Dunkers-README.md&depth=1).*
 
 # Where to Start
 
