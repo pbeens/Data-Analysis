@@ -21,6 +21,14 @@ My goal here is to share things I learn about data analysis using Python. The ma
 
 # What's New? 
 
++ I have created a video to help anyone that needs help finishing their Hoops activity graph: https://www.youtube.com/watch?v=7SwoMMC39Ww
+
+<center>
+
+[![Alt text](Images/Hoops-Activity-Video-500px.png)](https://www.youtube.com/watch?v=7SwoMMC39Ww)
+
+</center>
+
 + Added [Data-Dunkers-PBL-Hoops-Graph-Slideshow.pdf](Data-Dunkers-PBL-Hoops-Graph-Slideshow.pdf).
 + Added [hoops-graph.ipynb](PBL/hoops-graph.ipynb).
 + The [Data-Dunkers-README.md](Data-Dunkers-README.md) activities have been moved to a Google Sheet. It can be found at [bit.ly/dd-slides](https://bit.ly/dd-slides).
