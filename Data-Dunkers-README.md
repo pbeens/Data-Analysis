@@ -18,7 +18,7 @@ Previous workshop slides can be found in the next section:
 
 # Previous Workshop Slides
 
-- TDSB Teachers Workshop, December 2023 (forthcoming) | [Student Slides](https://bit.ly/dd-slides)
+- [TDSB Teachers Workshop Teacher Slides, December 2023](https://docs.google.com/presentation/d/1bwbJJKbxb6I5EvEz4DcV3LbVoWx6izxvgXsei1Irk-M/edit?usp=sharing)
 - [TCDSB St Dorothy Grade 7 Presentation, November 2023](https://docs.google.com/presentation/d/1pHaoC7vEUOipnP36v0nEZqVJTvyv6LNHbIkEMsK2TDY/edit?usp=sharing)
 - [TCDSB Percy Johnson Grade 9 & 11 Presentation, November 2023](https://docs.google.com/presentation/d/13zEazGi96pzduxMaJaayxsgKHMM8sZXrJbvVPLp-hEk/edit?usp=sharing)
 - [TCDSB St Basils Grade 9 Presentation, November 2023](https://docs.google.com/presentation/d/1_lDpJLvLsbAde0jc_SuN_9O4qKdHd28SXNgPfXJyo40/edit?usp=sharing)
