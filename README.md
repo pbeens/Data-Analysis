@@ -1,12 +1,6 @@
 # README.md
 
-<div align="center">
-<div style="font-size:larger;">
-<strong>Data Dunkers Start <a href="Data-Dunkers-README.md">HERE</a>!</strong>
-</div>
-</div>
-
----
+## Data Dunkers Start [HERE](Data-Dunkers-README.md)!
 
 Welcome! 
 
