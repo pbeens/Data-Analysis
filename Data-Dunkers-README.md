@@ -1,3 +1,7 @@
+# Note to Data Dunkers Participants!
+
+All Data Dunkers content has been moved to a new repository. Pages in this Data Analysis repository may be repurposed to use new examples, so you are encouraged to use the new content located [here](https://github.com/pbeens/Data-Dunkers).
+
 # Data-Dunkers-README.md
 
 *The short URL of this document is [bit.ly/data-dunkers-doc](https://bit.ly/data-dunkers-doc).*

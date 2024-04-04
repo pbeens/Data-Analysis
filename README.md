@@ -1,5 +1,9 @@
 # README.md
 
+# Note to Data Dunkers Participants!
+
+All Data Dunkers content has been moved to a new repository. Pages in this Data Analysis repository may be repurposed to use new examples, so you are encouraged to use the new content located [here](https://github.com/pbeens/Data-Dunkers).
+
 ## Data Dunkers Start [HERE](Data-Dunkers-README.md)!
 
 Welcome! 
